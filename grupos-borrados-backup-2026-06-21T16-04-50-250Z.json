@@ -1,0 +1,612 @@
+{
+  "borrados": [
+    {
+      "id": "A3935H9qnSWnZzy9b0Ci",
+      "nombre": "2SM2",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "cicloNombre": "Sistemas Microinformáticos y Redes",
+      "centroId": "default",
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "alumnosIds": [],
+      "modulosIds": [
+        "NvvKGvRbIMkQVFjWDxiu"
+      ],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1782020960,
+        "_nanoseconds": 522000000
+      },
+      "updatedAt": {
+        "_seconds": 1782020960,
+        "_nanoseconds": 522000000
+      }
+    },
+    {
+      "id": "nNNbbukRdcpbq1lO79jN",
+      "nombre": "2AW3",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "TwChCEyBA3y59ZfGUDi0",
+      "cicloNombre": "Desarrollo Aplicaciones Web",
+      "centroId": "default",
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2025-2026",
+      "alumnosIds": [],
+      "modulosIds": [
+        "tFUVNWAKZfyUqOgIeeLE"
+      ],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1781760503,
+        "_nanoseconds": 537000000
+      },
+      "updatedAt": {
+        "_seconds": 1781760503,
+        "_nanoseconds": 537000000
+      }
+    }
+  ],
+  "supervivientes_antes": [
+    {
+      "id": "6FizW6wI8iHYzoSWCV8y",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "cicloNombre": "Sistemas Microinformáticos y Redes",
+      "centroId": "default",
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "alumnosIds": [],
+      "modulosIds": [
+        "QHuGVLWrcpauTNXeYrH5"
+      ],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1781715767,
+        "_nanoseconds": 134000000
+      },
+      "nombre": "2SM2",
+      "horario": {
+        "lunes": [
+          {
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE",
+            "horaFin": "09:25",
+            "horaInicio": "08:30",
+            "moduloAbreviatura": "SVR",
+            "profesorId": "",
+            "aula": ""
+          },
+          {
+            "horaFin": "10:20",
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE",
+            "profesorId": "",
+            "aula": "",
+            "moduloAbreviatura": "SVR",
+            "horaInicio": "09:25"
+          },
+          {
+            "moduloId": "PNe923II7NvL3bMoydu2",
+            "horaFin": "11:15",
+            "moduloAbreviatura": "SOR",
+            "horaInicio": "10:20",
+            "profesorId": "",
+            "aula": ""
+          },
+          {
+            "moduloAbreviatura": "SVR",
+            "horaInicio": "11:45",
+            "profesorId": "",
+            "aula": "",
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE",
+            "horaFin": "12:40"
+          },
+          {
+            "horaFin": "13:35",
+            "moduloId": "PNe923II7NvL3bMoydu2",
+            "aula": "",
+            "profesorId": "",
+            "moduloAbreviatura": "SOR",
+            "horaInicio": "12:40"
+          },
+          {
+            "moduloId": "3ZEYpMGa7MRUTb2F9l7I",
+            "horaFin": "14:30",
+            "horaInicio": "13:35",
+            "moduloAbreviatura": "FOL",
+            "profesorId": "",
+            "aula": ""
+          }
+        ],
+        "martes": [
+          {
+            "horaInicio": "08:30",
+            "moduloAbreviatura": "SOR",
+            "aula": "",
+            "profesorId": "",
+            "moduloId": "PNe923II7NvL3bMoydu2",
+            "horaFin": "09:25"
+          },
+          {
+            "horaInicio": "09:25",
+            "moduloAbreviatura": "SOR",
+            "aula": "",
+            "profesorId": "",
+            "moduloId": "PNe923II7NvL3bMoydu2",
+            "horaFin": "10:20"
+          },
+          {
+            "profesorId": "",
+            "aula": "",
+            "horaInicio": "10:20",
+            "moduloAbreviatura": "SVR",
+            "horaFin": "11:15",
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE"
+          },
+          {
+            "aula": "",
+            "profesorId": "",
+            "horaInicio": "11:45",
+            "moduloAbreviatura": "SOR",
+            "horaFin": "12:40",
+            "moduloId": "PNe923II7NvL3bMoydu2"
+          },
+          {
+            "horaInicio": "12:40",
+            "moduloAbreviatura": "AW",
+            "aula": "",
+            "profesorId": "",
+            "moduloId": "DhF28zwLdNd0VazQY8mj",
+            "horaFin": "13:35"
+          },
+          {
+            "profesorId": "",
+            "aula": "",
+            "horaInicio": "13:35",
+            "moduloAbreviatura": "SVR",
+            "horaFin": "14:30",
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE"
+          }
+        ],
+        "miercoles": [
+          {
+            "moduloId": "DhF28zwLdNd0VazQY8mj",
+            "horaFin": "09:25",
+            "horaInicio": "08:30",
+            "moduloAbreviatura": "AW",
+            "aula": "",
+            "profesorId": ""
+          },
+          {
+            "horaInicio": "09:25",
+            "moduloAbreviatura": "AW",
+            "profesorId": "",
+            "aula": "",
+            "moduloId": "DhF28zwLdNd0VazQY8mj",
+            "horaFin": "10:20"
+          },
+          {
+            "horaInicio": "10:20",
+            "moduloAbreviatura": "SOR",
+            "aula": "",
+            "profesorId": "",
+            "moduloId": "PNe923II7NvL3bMoydu2",
+            "horaFin": "11:15"
+          },
+          {
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE",
+            "horaFin": "12:40",
+            "moduloAbreviatura": "SVR",
+            "horaInicio": "11:45",
+            "aula": "",
+            "profesorId": ""
+          },
+          {
+            "aula": "",
+            "profesorId": "",
+            "horaInicio": "12:40",
+            "moduloAbreviatura": "SVR",
+            "horaFin": "13:35",
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE"
+          },
+          {
+            "horaFin": "14:30",
+            "moduloId": "PNe923II7NvL3bMoydu2",
+            "profesorId": "",
+            "aula": "",
+            "horaInicio": "13:35",
+            "moduloAbreviatura": "SOR"
+          }
+        ],
+        "jueves": [
+          {
+            "moduloId": "3ZEYpMGa7MRUTb2F9l7I",
+            "horaFin": "09:25",
+            "horaInicio": "08:30",
+            "moduloAbreviatura": "FOL",
+            "aula": "",
+            "profesorId": ""
+          },
+          {
+            "moduloAbreviatura": "FOL",
+            "horaInicio": "09:25",
+            "aula": "",
+            "profesorId": "",
+            "moduloId": "3ZEYpMGa7MRUTb2F9l7I",
+            "horaFin": "10:20"
+          },
+          {
+            "aula": "",
+            "profesorId": "",
+            "horaInicio": "10:20",
+            "moduloAbreviatura": "AW",
+            "horaFin": "11:15",
+            "moduloId": "DhF28zwLdNd0VazQY8mj"
+          },
+          {
+            "moduloId": "3ZEYpMGa7MRUTb2F9l7I",
+            "horaFin": "12:40",
+            "moduloAbreviatura": "FOL",
+            "horaInicio": "11:45",
+            "profesorId": "",
+            "aula": ""
+          },
+          {
+            "profesorId": "",
+            "aula": "",
+            "horaInicio": "12:40",
+            "moduloAbreviatura": "FOL",
+            "horaFin": "13:35",
+            "moduloId": "3ZEYpMGa7MRUTb2F9l7I"
+          },
+          {
+            "horaFin": "14:30",
+            "moduloId": "DhF28zwLdNd0VazQY8mj",
+            "profesorId": "",
+            "aula": "",
+            "horaInicio": "13:35",
+            "moduloAbreviatura": "AW"
+          }
+        ],
+        "viernes": [
+          {
+            "aula": "",
+            "profesorId": "",
+            "moduloAbreviatura": "SVR",
+            "horaInicio": "09:25",
+            "horaFin": "10:20",
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE"
+          },
+          {
+            "horaInicio": "10:20",
+            "moduloAbreviatura": "SVR",
+            "profesorId": "",
+            "aula": "",
+            "moduloId": "nIbW5QjO0CJu2XLL1NxE",
+            "horaFin": "11:15"
+          },
+          {
+            "horaFin": "12:40",
+            "moduloId": "PNe923II7NvL3bMoydu2",
+            "aula": "",
+            "profesorId": "",
+            "horaInicio": "11:45",
+            "moduloAbreviatura": "SOR"
+          },
+          {
+            "horaInicio": "08:30",
+            "horaFin": "09:25",
+            "moduloId": "QHuGVLWrcpauTNXeYrH5",
+            "moduloAbreviatura": "DBDR",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "12:40",
+            "horaFin": "13:35",
+            "moduloId": "QHuGVLWrcpauTNXeYrH5",
+            "moduloAbreviatura": "DBDR",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "13:35",
+            "horaFin": "14:30",
+            "moduloId": "QHuGVLWrcpauTNXeYrH5",
+            "moduloAbreviatura": "DBDR",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          }
+        ]
+      },
+      "updatedAt": {
+        "_seconds": 1781978709,
+        "_nanoseconds": 715000000
+      }
+    },
+    {
+      "id": "AJdeLlMHMguP1VwxQ0Nz",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "TwChCEyBA3y59ZfGUDi0",
+      "cicloNombre": "Desarrollo Aplicaciones Web",
+      "centroId": "default",
+      "cursoAcademico": "2025-2026",
+      "turno": "mañana",
+      "aula": "",
+      "alumnosIds": [],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1780332544,
+        "_nanoseconds": 784000000
+      },
+      "horario": {
+        "lunes": [
+          {
+            "horaInicio": "08:30",
+            "horaFin": "09:25",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "09:25",
+            "horaFin": "10:20",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "10:20",
+            "horaFin": "11:15",
+            "moduloId": "UvJgp4031Tli2vle3jeH",
+            "moduloAbreviatura": "DWEC",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "11:45",
+            "horaFin": "12:40",
+            "moduloId": "drd3Duej8UaRRyxuw6se",
+            "moduloAbreviatura": "DIW",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "12:40",
+            "horaFin": "13:35",
+            "moduloId": "drd3Duej8UaRRyxuw6se",
+            "moduloAbreviatura": "DIW",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "13:35",
+            "horaFin": "14:30",
+            "moduloId": "UvJgp4031Tli2vle3jeH",
+            "moduloAbreviatura": "DWEC",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          }
+        ],
+        "martes": [
+          {
+            "horaInicio": "08:30",
+            "horaFin": "09:25",
+            "moduloId": "UvJgp4031Tli2vle3jeH",
+            "moduloAbreviatura": "DWEC",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "09:25",
+            "horaFin": "10:20",
+            "moduloId": "UvJgp4031Tli2vle3jeH",
+            "moduloAbreviatura": "DWEC",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "10:20",
+            "horaFin": "11:15",
+            "moduloId": "drd3Duej8UaRRyxuw6se",
+            "moduloAbreviatura": "DIW",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "11:45",
+            "horaFin": "12:40",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "12:40",
+            "horaFin": "13:35",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "13:35",
+            "horaFin": "14:30",
+            "moduloId": "iyYSfWdFscHTE0uApRez",
+            "moduloAbreviatura": "IPE2",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          }
+        ],
+        "miercoles": [
+          {
+            "horaInicio": "08:30",
+            "horaFin": "09:25",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "09:25",
+            "horaFin": "10:20",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "10:20",
+            "horaFin": "11:15",
+            "moduloId": "iyYSfWdFscHTE0uApRez",
+            "moduloAbreviatura": "IPE2",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "11:45",
+            "horaFin": "12:40",
+            "moduloId": "UvJgp4031Tli2vle3jeH",
+            "moduloAbreviatura": "DWEC",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "12:40",
+            "horaFin": "13:35",
+            "moduloId": "LGghOj1GsUM4DFpdR853",
+            "moduloAbreviatura": "PROY",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "13:35",
+            "horaFin": "14:30",
+            "moduloId": "LGghOj1GsUM4DFpdR853",
+            "moduloAbreviatura": "PROY",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          }
+        ],
+        "jueves": [
+          {
+            "horaInicio": "08:30",
+            "horaFin": "09:25",
+            "moduloId": "drd3Duej8UaRRyxuw6se",
+            "moduloAbreviatura": "DIW",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "09:25",
+            "horaFin": "10:20",
+            "moduloId": "drd3Duej8UaRRyxuw6se",
+            "moduloAbreviatura": "DIW",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "10:20",
+            "horaFin": "11:15",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "11:45",
+            "horaFin": "12:40",
+            "moduloId": "0N7OzDzcqkTHmbTrkzS4",
+            "moduloAbreviatura": "ING",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "12:40",
+            "horaFin": "13:35",
+            "moduloId": "0N7OzDzcqkTHmbTrkzS4",
+            "moduloAbreviatura": "ING",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "13:35",
+            "horaFin": "14:30",
+            "moduloId": "iyYSfWdFscHTE0uApRez",
+            "moduloAbreviatura": "IPE2",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          }
+        ],
+        "viernes": [
+          {
+            "horaInicio": "08:30",
+            "horaFin": "09:25",
+            "moduloId": "UvJgp4031Tli2vle3jeH",
+            "moduloAbreviatura": "DWEC",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "09:25",
+            "horaFin": "10:20",
+            "moduloId": "UvJgp4031Tli2vle3jeH",
+            "moduloAbreviatura": "DWEC",
+            "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+            "aula": ""
+          },
+          {
+            "horaInicio": "10:20",
+            "horaFin": "11:15",
+            "moduloId": "4jGCb6xE9NaBJyEPWTEQ",
+            "moduloAbreviatura": "DESP",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "11:45",
+            "horaFin": "12:40",
+            "moduloId": "A3fPDDMr6qFRv3ajftlH",
+            "moduloAbreviatura": "DWES",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "12:40",
+            "horaFin": "13:35",
+            "moduloId": "4jGCb6xE9NaBJyEPWTEQ",
+            "moduloAbreviatura": "DESP",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          },
+          {
+            "horaInicio": "13:35",
+            "horaFin": "14:30",
+            "moduloId": "drd3Duej8UaRRyxuw6se",
+            "moduloAbreviatura": "DIW",
+            "profesorId": "sin-asignar",
+            "aula": ""
+          }
+        ]
+      },
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "nombre": "2AW3",
+      "modulosIds": [
+        "UvJgp4031Tli2vle3jeH",
+        "LGghOj1GsUM4DFpdR853",
+        "4wNzZBatFgkuo7MdZoud",
+        "BEVM6d0HqIfVPpMbRsL1",
+        "6Fpl7lCuhUgJo6ium0Fr"
+      ],
+      "updatedAt": {
+        "_seconds": 1781505102,
+        "_nanoseconds": 1000000
+      }
+    }
+  ]
+}

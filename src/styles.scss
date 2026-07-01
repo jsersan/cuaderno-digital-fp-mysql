@@ -1,0 +1,479 @@
+/* ============================================
+   Cuaderno Digital FP Euskadi - Global Styles
+   Theme is loaded via angular.json (prebuilt)
+   ============================================ */
+
+/* --- CSS Reset & Base --- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Override primary color to blue 800 */
+:root {
+  --mdc-filled-button-container-color: #1565c0;
+  --mdc-filled-button-label-text-color: #fff;
+  --mat-app-primary: #1565c0;
+  --mat-app-on-primary: #fff;
+
+  /* ============================================
+     TOKENS DE TEMA (claro por defecto)
+     Úsalos en los componentes: var(--surface), var(--text), etc.
+     ============================================ */
+  --bg:            #f5f5f5;   /* fondo de la página            */
+  --surface:       #ffffff;   /* tarjetas y paneles            */
+  --surface-2:     #fafafa;   /* superficie alterna / hover    */
+  --surface-3:     #f0f0f0;   /* superficie destacada suave    */
+  --border:        #e8e8e8;   /* bordes y separadores          */
+  --text:          #212121;   /* texto principal               */
+  --text-secondary:#555555;   /* texto secundario              */
+  --text-muted:    #777777;   /* texto atenuado (legible)      */
+  --link:          #1565c0;   /* enlaces                       */
+
+  /* Chips / badges neutros (los grises "DAW2", "Parcial", "Tutor"…) */
+  --chip-bg:       #eceff1;
+  --chip-text:     #37474f;
+
+  /* Estados (fondo translúcido + texto). Sirven para badges de estado */
+  --ok-bg:    #e8f5e9; --ok-text:   #2e7d32;
+  --err-bg:   #ffebee; --err-text:  #c62828;
+  --warn-bg:  #fff3e0; --warn-text: #e65100;
+  --info-bg:  #e3f2fd; --info-text: #1565c0;
+
+  /* Resaltado suave (p.ej. celda del horario del propio módulo) */
+  --highlight-bg:   #e8f5e9;
+  --highlight-text: #1b5e20;
+}
+
+/* ============================================
+   TOKENS DE TEMA (modo oscuro)
+   Redefinen las mismas variables; todo lo que use var(--x)
+   se adapta automáticamente sin tocar cada componente.
+   ============================================ */
+body.dark-theme {
+  --bg:            #121212;
+  --surface:       #1e1e2e;
+  --surface-2:     #2a2a44;
+  --surface-3:     #252540;
+  --border:        #33384a;
+  --text:          #ececec;
+  --text-secondary:#c2c2cc;
+  --text-muted:    #9aa0ab;
+  --link:          #90caf9;
+
+  --chip-bg:       #2f3445;
+  --chip-text:     #cdd3e0;
+
+  --ok-bg:    #14361b; --ok-text:   #81c784;
+  --err-bg:   #3a1b1b; --err-text:  #ef9a9a;
+  --warn-bg:  #3d2a12; --warn-text: #ffb74d;
+  --info-bg:  #16263b; --info-text: #90caf9;
+
+  --highlight-bg:   #173a26;
+  --highlight-text: #a5d6a7;
+}
+
+/* --- Typography --- */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--text);
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 22px; }
+h3 { font-size: 17px; }
+h4 { font-size: 15px; }
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* --- Global Layout Utilities --- */
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+/* --- Cards --- */
+.mat-mdc-card {
+  border-radius: 12px !important;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08) !important;
+  border: 1px solid #e8e8e8;
+}
+
+/* --- Tables --- */
+.mat-mdc-table .mat-mdc-header-cell {
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #666;
+}
+
+.mat-mdc-table .mat-mdc-row:hover {
+  background: #fafafa;
+}
+
+/* --- Form Fields --- */
+.mat-mdc-form-field .mdc-notched-outline__notch,
+.mat-mdc-form-field .mdc-notched-outline__leading,
+.mat-mdc-form-field .mdc-notched-outline__trailing {
+  border-color: #e0e0e0 !important;
+}
+
+/* --- Chips --- */
+.mat-mdc-chip {
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  height: 26px !important;
+}
+
+/* --- Buttons --- */
+.mat-mdc-raised-button {
+  border-radius: 8px !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.3px;
+}
+
+.mat-mdc-button {
+  border-radius: 8px !important;
+}
+
+/* --- Tabs --- */
+.mat-mdc-tab-group .mat-mdc-tab-header {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* --- Snackbar --- */
+.mat-mdc-snack-bar-container {
+  border-radius: 8px !important;
+}
+
+/* --- Scrollbar --- */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #c0c0c0; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #a0a0a0; }
+
+/* --- Common Status Classes --- */
+.estado-activo { background: var(--ok-bg); color: var(--ok-text); }
+.estado-baja { background: var(--err-bg); color: var(--err-text); }
+.estado-trasladado { background: var(--warn-bg); color: var(--warn-text); }
+.estado-aprobado { background: var(--ok-bg); color: var(--ok-text); }
+.estado-suspenso { background: var(--err-bg); color: var(--err-text); }
+.estado-pendiente { background: var(--warn-bg); color: var(--warn-text); }
+.estado-matriculado { background: var(--info-bg); color: var(--info-text); }
+
+.text-aprobado { color: var(--ok-text); }
+.text-suspenso { color: var(--err-text); }
+.text-warning { color: var(--warn-text); }
+.text-info { color: var(--info-text); }
+.text-muted { color: var(--text-muted); }
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .page-container { padding: 12px; }
+  h1 { font-size: 22px; }
+  h2 { font-size: 18px; }
+}
+
+@media (max-width: 600px) {
+  .hide-mobile { display: none !important; }
+}
+
+/* --- Print --- */
+@media print {
+  .mat-mdc-sidenav,
+  .mat-toolbar,
+  button { display: none !important; }
+
+  .mat-mdc-card {
+    box-shadow: none !important;
+    border: 1px solid #ccc;
+    break-inside: avoid;
+  }
+
+  body { background: white; }
+}
+
+/* --- Animations --- */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in { animation: fadeIn 0.3s ease-out; }
+
+
+/* ============================================
+   DARK THEME - High Contrast Accessible
+   ============================================ */
+body.dark-theme {
+  background: #121212 !important;
+  color: #e8e8e8 !important;
+}
+
+body.dark-theme .mat-mdc-card {
+  background: #1e1e2e !important;
+  border-color: #333 !important;
+  color: #e8e8e8 !important;
+}
+
+body.dark-theme .mat-toolbar {
+  background: #1a237e !important;
+  color: #fff !important;
+}
+
+/* Sidebar */
+body.dark-theme .app-sidenav {
+  background: #1a1a2e !important;
+  border-color: #333 !important;
+}
+body.dark-theme .app-sidenav .sidenav-header { background: #1a237e !important; }
+body.dark-theme .app-sidenav mat-nav-list a { color: #ddd !important; }
+body.dark-theme .app-sidenav mat-nav-list a mat-icon { color: #aaa !important; }
+body.dark-theme .app-sidenav mat-nav-list a:hover { background: rgba(255,255,255,0.08) !important; color: #fff !important; }
+body.dark-theme .app-sidenav mat-nav-list a:hover mat-icon { color: #fff !important; }
+body.dark-theme .app-sidenav .active-link { background: rgba(100,181,246,0.2) !important; color: #90caf9 !important; }
+body.dark-theme .app-sidenav .active-link mat-icon { color: #90caf9 !important; }
+body.dark-theme .app-sidenav .user-info-sidebar { background: rgba(0,0,0,0.3) !important; border-color: #333 !important; }
+body.dark-theme .app-sidenav .user-name { color: #eee !important; }
+body.dark-theme .app-sidenav .user-role { color: #999 !important; }
+body.dark-theme .app-sidenav .user-info-sidebar mat-icon { color: #90caf9 !important; }
+
+/* Typography */
+body.dark-theme h1, body.dark-theme h2, body.dark-theme h3, body.dark-theme h4 { color: #f0f0f0 !important; }
+body.dark-theme .subtitle { color: #aaa !important; }
+body.dark-theme p { color: #ccc !important; }
+body.dark-theme a { color: #90caf9 !important; }
+body.dark-theme .alumno-link { color: #90caf9 !important; }
+
+/* Tables */
+body.dark-theme .mat-mdc-table { background: #1e1e2e !important; }
+body.dark-theme .mat-mdc-header-cell { color: #bbb !important; background: #252540 !important; }
+body.dark-theme .mat-mdc-cell { color: #ddd !important; }
+body.dark-theme .mat-mdc-row:hover { background: #2a2a44 !important; }
+
+/* Forms - HIGH CONTRAST */
+body.dark-theme .mat-mdc-form-field { color: #e8e8e8 !important; }
+body.dark-theme .mat-mdc-text-field-wrapper { background: #2a2a3e !important; }
+body.dark-theme input, body.dark-theme textarea, body.dark-theme select { color: #f0f0f0 !important; }
+body.dark-theme .mat-mdc-select-value { color: #f0f0f0 !important; }
+body.dark-theme .mdc-text-field--outlined .mdc-notched-outline__leading,
+body.dark-theme .mdc-text-field--outlined .mdc-notched-outline__notch,
+body.dark-theme .mdc-text-field--outlined .mdc-notched-outline__trailing { border-color: #555 !important; }
+body.dark-theme .mat-mdc-form-field-focus-overlay { background: transparent !important; }
+body.dark-theme .mdc-floating-label { color: #bbb !important; }
+body.dark-theme .mat-mdc-input-element::placeholder { color: #888 !important; }
+body.dark-theme mat-label { color: #bbb !important; }
+
+/* Slide toggle labels */
+body.dark-theme .mat-mdc-slide-toggle .mdc-label { color: #ddd !important; }
+
+/* Cards and containers */
+body.dark-theme .filters-card, body.dark-theme .form-card { background: #1e1e2e !important; }
+body.dark-theme .tab-card { background: #1e1e2e !important; }
+
+/* Chips */
+body.dark-theme .mat-mdc-chip { background: #333 !important; color: #ddd !important; }
+
+/* Buttons */
+body.dark-theme .mat-mdc-button { color: #90caf9 !important; }
+body.dark-theme .mat-mdc-outlined-button { color: #90caf9 !important; border-color: #555 !important; }
+
+/* Paginator */
+body.dark-theme .mat-mdc-paginator { background: #1e1e2e !important; color: #ccc !important; }
+
+/* Tabs */
+body.dark-theme .mat-mdc-tab-header { border-color: #444 !important; }
+body.dark-theme .mat-mdc-tab .mdc-tab__text-label { color: #bbb !important; }
+body.dark-theme .mat-mdc-tab--active .mdc-tab__text-label { color: #90caf9 !important; }
+
+/* Snackbar */
+body.dark-theme .mat-mdc-snack-bar-container { background: #333 !important; color: #eee !important; }
+
+/* Badges */
+body.dark-theme .estado-activo { background: #1b3a1b !important; color: #81c784 !important; }
+body.dark-theme .estado-baja { background: #3a1b1b !important; color: #e57373 !important; }
+
+/* Empty states */
+body.dark-theme .empty-state, body.dark-theme .empty-card { color: #888 !important; }
+
+/* Mat select panel (dropdown) */
+body.dark-theme .mat-mdc-select-panel { background: #2a2a3e !important; }
+body.dark-theme .mat-mdc-option { color: #ddd !important; }
+body.dark-theme .mat-mdc-option:hover { background: #333 !important; }
+
+/* Dividers */
+body.dark-theme .mat-divider { border-color: #444 !important; }
+body.dark-theme mat-divider { border-color: #444 !important; }
+
+/* ============================================
+   DARK THEME - Fixes for remaining contrast
+   ============================================ */
+
+/* Tab labels - Datos Personales / Preferencias */
+body.dark-theme .mat-mdc-tab .mdc-tab__text-label { color: #aaa !important; }
+body.dark-theme .mat-mdc-tab--active .mdc-tab__text-label { color: #fff !important; }
+body.dark-theme .mat-mdc-tab-header { background: transparent !important; }
+body.dark-theme .mdc-tab-indicator__content--underline { border-color: #90caf9 !important; }
+
+/* Page titles and headings inside content */
+body.dark-theme .perfil-container h2,
+body.dark-theme .page-header h2,
+body.dark-theme .mat-mdc-card h2,
+body.dark-theme .mat-mdc-card h3 { color: #f5f5f5 !important; }
+
+/* Sidebar in dark mode - ensure all text is bright */
+body.dark-theme .app-sidenav { background: #0d1117 !important; }
+body.dark-theme .app-sidenav .sidenav-header { background: #161b22 !important; }
+body.dark-theme .app-sidenav .app-title { color: #fff !important; }
+body.dark-theme .app-sidenav .app-subtitle { color: #90caf9 !important; }
+body.dark-theme .app-sidenav mat-nav-list a { color: #c9d1d9 !important; }
+body.dark-theme .app-sidenav mat-nav-list a mat-icon { color: #8b949e !important; }
+body.dark-theme .app-sidenav mat-nav-list a:hover,
+body.dark-theme .app-sidenav mat-nav-list a:hover mat-icon { color: #fff !important; }
+body.dark-theme .app-sidenav .active-link,
+body.dark-theme .app-sidenav .active-link mat-icon { color: #58a6ff !important; }
+body.dark-theme .app-sidenav .active-link { background: rgba(88,166,255,0.12) !important; }
+body.dark-theme .app-sidenav .bottom-nav { border-color: #21262d !important; }
+body.dark-theme .app-sidenav .user-info-sidebar { background: #161b22 !important; border-color: #21262d !important; }
+
+/* Form labels and hints in dark mode */
+body.dark-theme .mdc-floating-label,
+body.dark-theme .mat-mdc-form-field .mat-mdc-floating-label { color: #999 !important; }
+body.dark-theme .mat-mdc-form-field-hint { color: #888 !important; }
+body.dark-theme .mat-mdc-slide-toggle label,
+body.dark-theme .mdc-label { color: #ddd !important; }
+
+/* Slide toggle track */
+body.dark-theme .mdc-switch__track { background: #555 !important; }
+
+/* All remaining white/light text that might be invisible */
+body.dark-theme .mat-mdc-card-content,
+body.dark-theme .mat-mdc-list-item-title,
+body.dark-theme .mat-mdc-list-item-line { color: #ddd !important; }
+
+/* Content area background */
+body.dark-theme .app-content,
+body.dark-theme .mat-sidenav-content,
+body.dark-theme mat-sidenav-content { background: #121212 !important; }
+
+/* ============================================
+   DARK THEME — Red de seguridad para estilos
+   definidos dentro de cada componente (styles:[]).
+   Captura por patrón los casos que aún se ven con
+   poco contraste en las capturas: chips/badges grises,
+   tarjetas con fondo claro, textos atenuados y celdas
+   de color muy claro. Mientras los componentes migran
+   a las variables var(--...), esto evita repintarlos
+   uno a uno.
+   ============================================ */
+
+/* Tarjetas/superficies con fondos claros fijos (#fff, #fafafa, #f5f3ff, gradientes lila claros…) */
+body.dark-theme .report-card,
+body.dark-theme .hero-card,
+body.dark-theme .apartados-card,
+body.dark-theme .filters-card,
+body.dark-theme .stat-card,
+body.dark-theme .info-card,
+body.dark-theme .dashboard-card,
+body.dark-theme .modulo-card,
+body.dark-theme .examen-card,
+body.dark-theme .recuperacion-card,
+body.dark-theme .evento-card,
+body.dark-theme .backup-card,
+body.dark-theme .profesor-row,
+body.dark-theme .card,
+body.dark-theme [class*="-card"] {
+  background: var(--surface) !important;
+  border-color: var(--border) !important;
+  color: var(--text) !important;
+  background-image: none !important;   /* anula gradientes claros (hero lila) */
+}
+
+/* Texto secundario/atenuado fijado a grises medios (#666, #888, #999, #9e9e9e, #555) */
+body.dark-theme .report-card p,
+body.dark-theme .hero-card p,
+body.dark-theme .card p,
+body.dark-theme [class*="-card"] p,
+body.dark-theme .desc,
+body.dark-theme .description,
+body.dark-theme .subtitle,
+body.dark-theme .muted,
+body.dark-theme .secondary,
+body.dark-theme .hint,
+body.dark-theme small,
+body.dark-theme .meta,
+body.dark-theme .stat-label,
+body.dark-theme .card-subtitle {
+  color: var(--text-secondary) !important;
+}
+
+/* Chips / badges neutros pintados con grises o lilas claros fijos
+   (los "DAW2", "Tutor", "Parcial", "1ª Evaluación", "SM2"…). */
+body.dark-theme .chip,
+body.dark-theme .badge,
+body.dark-theme .tag,
+body.dark-theme .pill,
+body.dark-theme .grupo-chip,
+body.dark-theme .rol-chip,
+body.dark-theme .modulo-chip,
+body.dark-theme .evaluacion-chip,
+body.dark-theme .tipo-chip,
+body.dark-theme [class*="chip"]:not(.mat-mdc-chip):not([class*="estado-"]),
+body.dark-theme [class*="badge"]:not([class*="estado-"]) {
+  background: var(--chip-bg) !important;
+  color: var(--chip-text) !important;
+  border-color: var(--border) !important;
+}
+
+/* Celdas/etiquetas de resaltado verde muy claro (horario del propio módulo,
+   "necesitan recuperación", franjas destacadas) sobre las que el texto azul/verde
+   apenas se leía. */
+body.dark-theme .highlight,
+body.dark-theme .is-highlight,
+body.dark-theme .mi-modulo,
+body.dark-theme .own-module,
+body.dark-theme .slot-highlight,
+body.dark-theme .horario-celda.activa,
+body.dark-theme .recuperacion-aviso,
+body.dark-theme .aviso-recuperacion {
+  background: var(--highlight-bg) !important;
+  color: var(--highlight-text) !important;
+}
+
+/* Tablas/celdas propias (no Material) con texto oscuro fijo */
+body.dark-theme table:not(.mat-mdc-table) th,
+body.dark-theme table:not(.mat-mdc-table) td { color: var(--text) !important; border-color: var(--border) !important; }
+body.dark-theme table:not(.mat-mdc-table) thead th { background: var(--surface-3) !important; }
+
+/* Títulos de tarjeta atenuados (los "PROY/APIN/DWEC" que se veían casi negros sobre negro) */
+body.dark-theme .report-card h3,
+body.dark-theme .hero-card h3,
+body.dark-theme [class*="-card"] h3,
+body.dark-theme [class*="-card"] h4,
+body.dark-theme .card-title { color: var(--text) !important; }
+
+/* Texto de cifras de estado en tarjetas (aprobados/suspensos/media) — solo el neutro;
+   los verdes/rojos explícitos se respetan vía las clases text-aprobado / text-suspenso */
+body.dark-theme .card-stats,
+body.dark-theme .stats-line,
+body.dark-theme .stat-value { color: var(--text-secondary) !important; }

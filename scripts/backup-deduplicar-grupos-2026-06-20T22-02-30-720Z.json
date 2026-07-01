@@ -1,0 +1,54 @@
+{
+  "generado": "2026-06-20T22:02:30.718Z",
+  "CURSO": "2026-2027",
+  "acciones": [
+    {
+      "borrar": "JO4shgROeGSZmqFM1Ban",
+      "nombre": "2AW3",
+      "ciclo": "TwChCEyBA3y59ZfGUDi0",
+      "keeper": "2O9LFMhQWHKVIZbIqmur",
+      "alumnosMovidos": [
+        "5GfU0bIiuMYQ6MROnyzM",
+        "CdqmanLEpxKEiWKNSksF",
+        "HCxivf6fZZvlLlmBNbkW",
+        "ZDM3sVi7I7qX6DblRkZ8",
+        "eClsEtpL0i4GxdiCxprk",
+        "lO32es3OpdW3ELqwkGaf",
+        "qaJ9ysiCi0qn93JXhLYu",
+        "qq1UqpfN564fJ0Ow6B6r",
+        "vgCxSL13rTI5EdmHGmiA",
+        "x2DwjCxiNLE8Y7Y7dJl3",
+        "xSh1dvhVbyOKVvWRnfT2",
+        "zAmheGYHQ84x9aLonk3h"
+      ]
+    },
+    {
+      "borrar": "QDlEVWM3E8hpTyChfINW",
+      "nombre": "2AW3",
+      "ciclo": "TwChCEyBA3y59ZfGUDi0",
+      "keeper": "2O9LFMhQWHKVIZbIqmur",
+      "alumnosMovidos": []
+    },
+    {
+      "borrar": "W4CCJ3Y5jTSmlWHWOBpT",
+      "nombre": "2AW3",
+      "ciclo": "TwChCEyBA3y59ZfGUDi0",
+      "keeper": "2O9LFMhQWHKVIZbIqmur",
+      "alumnosMovidos": []
+    },
+    {
+      "borrar": "YwmiFZuvbygKOibuz5rH",
+      "nombre": "2AW3",
+      "ciclo": "0BYE5g8i540QjQhyNn8l",
+      "keeper": "2O9LFMhQWHKVIZbIqmur",
+      "alumnosMovidos": []
+    },
+    {
+      "borrar": "SYj7pEqYEMWApdUwoVEI",
+      "nombre": "2SM2",
+      "ciclo": "0BYE5g8i540QjQhyNn8l",
+      "keeper": "6FizW6wI8iHYzoSWCV8y",
+      "alumnosMovidos": []
+    }
+  ]
+}

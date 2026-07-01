@@ -1,0 +1,305 @@
+{
+  "generado": "2026-06-16T19:12:56.955Z",
+  "moduloPrevio": {
+    "nombre": "Digitalización aplicada a los sectores productivos",
+    "abreviatura": "DASP",
+    "cicloId": "0BYE5g8i540QjQhyNn8l",
+    "centroId": "default",
+    "horasSemanales": 1,
+    "horasTotales": 32,
+    "cursoAcademico": "2025-2026",
+    "resultadosAprendizaje": [
+      {
+        "codigo": "RA1",
+        "descripcion": "Establece las diferencias entre la Economía Lineal (EL) y la Economía Circular (EC), identificando las ventajas de la EC en relación con el medioambiente y el desarrollo sostenible.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          }
+        ]
+      },
+      {
+        "codigo": "RA2",
+        "descripcion": "Caracteriza los principales aspectos de la 4.ª Revolución Industrial indicando los cambios y las ventajas que se producen tanto desde el punto de vista de los clientes como de las empresas.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          },
+          {
+            "undefined": 16.67
+          }
+        ]
+      },
+      {
+        "codigo": "RA3",
+        "descripcion": "Identifica la estructura de los sistemas basados en cloud/nube describiendo su tipología y campo de aplicación.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "undefined": 20
+          },
+          {
+            "undefined": 20
+          },
+          {
+            "undefined": 20
+          },
+          {
+            "undefined": 20
+          },
+          {
+            "undefined": 20
+          }
+        ]
+      },
+      {
+        "codigo": "RA4",
+        "descripcion": "Compara los sistemas de producción/prestación de servicios digitalizados con los sistemas clásicos identificando las mejoras introducidas.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          }
+        ]
+      },
+      {
+        "codigo": "RA5",
+        "descripcion": "Elabora un plan de transformación de una empresa clásica del sector en el que se enmarca el título, basada en una EL, al concepto 4.0, determinando los cambios a introducir en las principales fases del sistema e indicando cómo afectaría a los recursos humanos.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          },
+          {
+            "undefined": 12.5
+          }
+        ]
+      }
+    ],
+    "profesorId": "",
+    "updatedAt": {
+      "_seconds": 1781636208,
+      "_nanoseconds": 743000000
+    }
+  },
+  "eventosPrevios": [
+    {
+      "id": "niuG5DmdK9AgsQs2YCdX",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "evaluacion": "1ª Evaluación Final",
+      "tipo": "tema",
+      "titulo": "UD4. Características de los sistemas de producción",
+      "descripcion": "4.1 Tecnologías habilitadoras (TDH). Características y aplicaciones.\n4.2 Relación entre TDH y productividad.\n4.3 Implantación de TDH: costes y competitividad.\n4.4 Sistemas digitalizados reales. Ejemplos.\n4.5 Tecnología disruptiva. Ejemplos.\n4.6 Sistemas de almacenamiento de datos.",
+      "fechaInicio": {
+        "_seconds": 1803539907,
+        "_nanoseconds": 692000000
+      },
+      "fechaFin": {
+        "_seconds": 1803726000,
+        "_nanoseconds": 0
+      },
+      "color": "#6A1B9A",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "raAsociado": "RA4"
+    },
+    {
+      "id": "u3IoctWKCYn0f1f4oKyt",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD1. Digitalización y sostenibilidad",
+      "descripcion": "1.1 Economías lineal y circular. Modelos de empresa.\n1.2 Responsabilidad social y afectación del medioambiente.\n1.3 Importancia del reciclaje en los modelos económicos.\n1.4 Procesos reales basados en EL y en EC.\n1.5 Comparativa de modelos: impacto medioambiental y ODS.",
+      "fechaInicio": {
+        "_seconds": 31536000,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 982669292,
+        "_nanoseconds": 307000000
+      },
+      "color": "#1565C0",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "raAsociado": "RA1"
+    },
+    {
+      "id": "v7mXtZ57P6mVR7pA0wP5",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "evaluacion": "1ª Evaluación Final",
+      "tipo": "tema",
+      "titulo": "UD3. Sistemas basados en la nube",
+      "descripcion": "3.1 Cloud. Definición y niveles.\n3.2 Posibilidades del trabajo en la cloud.\n3.3 Edge computing y su relación con la cloud.\n3.4 Fog y mist. Relación con la cloud.\n3.5 Ventajas del uso de la cloud.\n3.6 Cloud y rentabilidad de la empresa.",
+      "fechaInicio": {
+        "_seconds": 1803380400,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1803539907,
+        "_nanoseconds": 692000000
+      },
+      "color": "#EF6C00",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "raAsociado": "RA3"
+    },
+    {
+      "id": "wzXUCWjaP7J1p9jIIc5n",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "evaluacion": "2ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD5. Plan de transformación digital de una empresa",
+      "descripcion": "5.1 Configuración de una empresa clásica. Digitalización.\n5.2 TDH implicadas en cada etapa. Relación entre etapas.\n5.3 Configuración de la empresa digitalizada.\n5.4 Plan de transformación. Recursos empleados.",
+      "fechaInicio": {
+        "_seconds": 1793952000,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1803801600,
+        "_nanoseconds": 0
+      },
+      "color": "#00838F",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "raAsociado": "RA5"
+    },
+    {
+      "id": "ywtIy0LN4rSRwxaOzRzw",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD2. La cuarta revolución industrial",
+      "descripcion": "2.1 Sistemas ciberfísicos y evolución industrial.\n2.2 Sistemas automatizados. Cambios de la 4.ª revolución.\n2.3 Interrelación entre mundo físico y virtual.\n2.4 Ventajas de la migración a entornos 4.0.\n2.5 Ventajas para clientes y empresas.",
+      "fechaInicio": {
+        "_seconds": 982669292,
+        "_nanoseconds": 307000000
+      },
+      "fechaFin": {
+        "_seconds": 1797926400,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "raAsociado": "RA2"
+    }
+  ]
+}

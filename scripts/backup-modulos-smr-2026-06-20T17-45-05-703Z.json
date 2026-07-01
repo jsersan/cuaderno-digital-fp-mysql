@@ -1,0 +1,29 @@
+{
+  "generado": "2026-06-20T17:45:05.702Z",
+  "cambios": [
+    {
+      "id": "btANCBnZnOWN1oWRYLvy",
+      "antes": {
+        "curso": 2,
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      }
+    },
+    {
+      "id": "PNe923II7NvL3bMoydu2",
+      "antes": {
+        "nombre": "Servicios en red",
+        "curso": 2,
+        "horasSemanales": 0,
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      }
+    },
+    {
+      "id": "U6zc9dVffear28gVjs6q",
+      "antes": {
+        "curso": null,
+        "horasSemanales": 3,
+        "profesorId": "URVOZcpn1tNRrrmnPeYeYlFEeI62"
+      }
+    }
+  ]
+}

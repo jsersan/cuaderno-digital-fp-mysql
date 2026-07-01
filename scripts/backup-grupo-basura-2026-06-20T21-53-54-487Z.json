@@ -1,0 +1,31 @@
+{
+  "grupoBorrado": {
+    "id": "ULbYfV6U5zxUiP6Am7wX",
+    "data": {
+      "id": "ULbYfV6U5zxUiP6Am7wX",
+      "nombre": "2AW·",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "TwChCEyBA3y59ZfGUDi0",
+      "cicloNombre": "Desarrollo Aplicaciones Web",
+      "centroId": "default",
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "alumnosIds": [],
+      "modulosIds": [
+        "Hs4baOkpPhOWJRYHOwvI"
+      ],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1781897157,
+        "_nanoseconds": 90000000
+      },
+      "updatedAt": {
+        "_seconds": 1781897157,
+        "_nanoseconds": 90000000
+      }
+    }
+  },
+  "alumnosMovidos": [],
+  "destino": null
+}

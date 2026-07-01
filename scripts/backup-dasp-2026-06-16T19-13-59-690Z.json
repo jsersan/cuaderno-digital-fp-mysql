@@ -1,0 +1,556 @@
+{
+  "generado": "2026-06-16T19:13:59.690Z",
+  "moduloId": "6e5boC0eBPYcMgGMT36r",
+  "grupoId": "JO4shgROeGSZmqFM1Ban",
+  "curso": "2026-2027",
+  "eventos_programacion": [
+    {
+      "id": "4QaK3GCuaHmLeffIsyHW",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "lnZ5xkK172sxDTfnirEx",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2025-2026",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD1. Digitalización y sostenibilidad",
+      "descripcion": "1.1 Economías lineal y circular. Modelos de empresas basados en ambas.\n1.2 Responsabilidad social: modelos de empresas y afectación del medioambiente.\n1.3 Importancia del reciclaje en los modelos económicos.\n1.4 Procesos reales basados en la EL y en la EC.\n1.5 Comparativa de modelos según su impacto medioambiental y los ODS.",
+      "fechaInicio": {
+        "_seconds": 1757894400,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1762314092,
+        "_nanoseconds": 307000000
+      },
+      "color": "#1565C0",
+      "createdAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "updatedAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "contenidos": [
+        "1.1 Economías lineal y circular. Modelos de empresas basados en ambas.",
+        "1.2 Responsabilidad social: modelos de empresas y afectación del medioambiente.",
+        "1.3 Importancia del reciclaje en los modelos económicos.",
+        "1.4 Procesos reales basados en la EL y en la EC.",
+        "1.5 Comparativa de modelos según su impacto medioambiental y los ODS."
+      ],
+      "unidadId": "dasp-ud1",
+      "udNumero": 1,
+      "raAsociado": "RA1",
+      "trimestre": 1,
+      "order": 1,
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "centroId": "default",
+      "origen": "seed-dasp"
+    },
+    {
+      "id": "JFu6XLrQoVAruU4DMMvm",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "lnZ5xkK172sxDTfnirEx",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2025-2026",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD3. Sistemas basados en la nube",
+      "descripcion": "3.1 Cloud. Definición y niveles.\n3.2 Posibilidades del trabajo en la cloud.\n3.3 Edge computing y su relación con la cloud.\n3.4 Fog y mist. Relación con la cloud.\n3.5 Ventajas del uso de los recursos de la cloud.\n3.6 Uso de la cloud y la rentabilidad de la empresa.",
+      "fechaInicio": {
+        "_seconds": 1767830400,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1770940800,
+        "_nanoseconds": 0
+      },
+      "color": "#EF6C00",
+      "createdAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "updatedAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "contenidos": [
+        "3.1 Cloud. Definición y niveles.",
+        "3.2 Posibilidades del trabajo en la cloud.",
+        "3.3 Edge computing y su relación con la cloud.",
+        "3.4 Fog y mist. Relación con la cloud.",
+        "3.5 Ventajas del uso de los recursos de la cloud.",
+        "3.6 Uso de la cloud y la rentabilidad de la empresa."
+      ],
+      "unidadId": "dasp-ud3",
+      "udNumero": 3,
+      "raAsociado": "RA3",
+      "trimestre": 2,
+      "order": 1,
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "centroId": "default",
+      "origen": "seed-dasp"
+    },
+    {
+      "id": "SqLQGxiWzHo7US5Kw2kQ",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "lnZ5xkK172sxDTfnirEx",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2025-2026",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD2. La cuarta revolución industrial",
+      "descripcion": "2.1 Sistemas ciberfísicos. Relación con la evolución industrial.\n2.2 Sistemas automatizados. Cambios provocados por la cuarta revolución.\n2.3 Interrelación entre el mundo físico y el virtual.\n2.4 Ventajas de la migración a entornos 4.0.\n2.5 Ventajas de la 4.ª revolución industrial para clientes y empresas.",
+      "fechaInicio": {
+        "_seconds": 1762314092,
+        "_nanoseconds": 307000000
+      },
+      "fechaFin": {
+        "_seconds": 1766102400,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "createdAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "updatedAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "contenidos": [
+        "2.1 Sistemas ciberfísicos. Relación con la evolución industrial.",
+        "2.2 Sistemas automatizados. Cambios provocados por la cuarta revolución.",
+        "2.3 Interrelación entre el mundo físico y el virtual.",
+        "2.4 Ventajas de la migración a entornos 4.0.",
+        "2.5 Ventajas de la 4.ª revolución industrial para clientes y empresas."
+      ],
+      "unidadId": "dasp-ud2",
+      "udNumero": 2,
+      "raAsociado": "RA2",
+      "trimestre": 1,
+      "order": 1,
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "centroId": "default",
+      "origen": "seed-dasp"
+    },
+    {
+      "id": "aw5oQwsLomlLCR0bOZIV",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "lnZ5xkK172sxDTfnirEx",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2025-2026",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD5. Plan de transformación digital de una empresa",
+      "descripcion": "5.1 Configuración de una empresa clásica. Digitalización de la empresa o sus unidades.\n5.2 TDH implicadas en la digitalización de las etapas. Relación entre etapas.\n5.3 Configuración de la empresa digitalizada.\n5.4 Plan de transformación. Recursos empleados.",
+      "fechaInicio": {
+        "_seconds": 1775520000,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1781827200,
+        "_nanoseconds": 0
+      },
+      "color": "#00838F",
+      "createdAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "updatedAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "contenidos": [
+        "5.1 Configuración de una empresa clásica. Digitalización de la empresa o sus unidades.",
+        "5.2 TDH implicadas en la digitalización de las etapas. Relación entre etapas.",
+        "5.3 Configuración de la empresa digitalizada.",
+        "5.4 Plan de transformación. Recursos empleados."
+      ],
+      "unidadId": "dasp-ud5",
+      "udNumero": 5,
+      "raAsociado": "RA5",
+      "trimestre": 3,
+      "order": 1,
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "centroId": "default",
+      "origen": "seed-dasp"
+    },
+    {
+      "id": "uiM2XiYyVwu7V2HBcU36",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "lnZ5xkK172sxDTfnirEx",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2025-2026",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD4. Características de los sistemas de producción",
+      "descripcion": "4.1 Tecnologías habilitadoras (TDH) actuales. Características y aplicaciones.\n4.2 Relación entre TDH y productividad.\n4.3 Implantación de TDH: reducción de costes y mejora de la competitividad.\n4.4 Sistemas digitalizados reales. Ejemplos.\n4.5 Tecnología disruptiva. Ejemplos.\n4.6 Sistemas de almacenamiento de datos.",
+      "fechaInicio": {
+        "_seconds": 1770940800,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1774569600,
+        "_nanoseconds": 0
+      },
+      "color": "#6A1B9A",
+      "createdAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "updatedAt": {
+        "_seconds": 1780458857,
+        "_nanoseconds": 537000000
+      },
+      "contenidos": [
+        "4.1 Tecnologías habilitadoras (TDH) actuales. Características y aplicaciones.",
+        "4.2 Relación entre TDH y productividad.",
+        "4.3 Implantación de TDH: reducción de costes y mejora de la competitividad.",
+        "4.4 Sistemas digitalizados reales. Ejemplos.",
+        "4.5 Tecnología disruptiva. Ejemplos.",
+        "4.6 Sistemas de almacenamiento de datos."
+      ],
+      "unidadId": "dasp-ud4",
+      "udNumero": 4,
+      "raAsociado": "RA4",
+      "trimestre": 2,
+      "order": 1,
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "centroId": "default",
+      "origen": "seed-dasp"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "CoMv4E5jYLVNdgFXmbKx",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "titulo": "Actividad evaluable RA2 · La cuarta revolución industrial",
+      "descripcion": "2.1 Sistemas ciberfísicos y evolución industrial.\n2.2 Sistemas automatizados. Cambios de la 4.ª revolución.\n2.3 Interrelación entre mundo físico y virtual.\n2.4 Ventajas de la migración a entornos 4.0.\n2.5 Ventajas para clientes y empresas.",
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "fechaPublicacion": {
+        "_seconds": 1788937200,
+        "_nanoseconds": 0
+      },
+      "fechaEntrega": {
+        "_seconds": 1797926400,
+        "_nanoseconds": 0
+      },
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 10,
+      "penalizacionRetraso": 20,
+      "permiteEntregaTardia": true,
+      "esGrupal": false,
+      "requiereArchivo": true,
+      "evaluacion": "1ª Evaluación",
+      "publicada": true,
+      "archivada": false,
+      "entregas": [],
+      "adjuntos": [],
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "unidadId": "ywtIy0LN4rSRwxaOzRzw",
+      "peso": 20
+    },
+    {
+      "id": "TvX6jCAh3uD6H2wVIerj",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "titulo": "Actividad evaluable RA1 · Digitalización y sostenibilidad",
+      "descripcion": "1.1 Economías lineal y circular. Modelos de empresa.\n1.2 Responsabilidad social y afectación del medioambiente.\n1.3 Importancia del reciclaje en los modelos económicos.\n1.4 Procesos reales basados en EL y en EC.\n1.5 Comparativa de modelos: impacto medioambiental y ODS.",
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "fechaPublicacion": {
+        "_seconds": 1788937200,
+        "_nanoseconds": 0
+      },
+      "fechaEntrega": {
+        "_seconds": 982669292,
+        "_nanoseconds": 307000000
+      },
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 10,
+      "penalizacionRetraso": 20,
+      "permiteEntregaTardia": true,
+      "esGrupal": false,
+      "requiereArchivo": true,
+      "evaluacion": "1ª Evaluación",
+      "publicada": true,
+      "archivada": false,
+      "entregas": [],
+      "adjuntos": [],
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "unidadId": "u3IoctWKCYn0f1f4oKyt",
+      "peso": 20
+    },
+    {
+      "id": "c6YSHtnnKMWKf4gamRJF",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "titulo": "Actividad evaluable RA4 · Características de los sistemas de producción",
+      "descripcion": "4.1 Tecnologías habilitadoras (TDH). Características y aplicaciones.\n4.2 Relación entre TDH y productividad.\n4.3 Implantación de TDH: costes y competitividad.\n4.4 Sistemas digitalizados reales. Ejemplos.\n4.5 Tecnología disruptiva. Ejemplos.\n4.6 Sistemas de almacenamiento de datos.",
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "fechaPublicacion": {
+        "_seconds": 1788937200,
+        "_nanoseconds": 0
+      },
+      "fechaEntrega": {
+        "_seconds": 1803726000,
+        "_nanoseconds": 0
+      },
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 10,
+      "penalizacionRetraso": 20,
+      "permiteEntregaTardia": true,
+      "esGrupal": false,
+      "requiereArchivo": true,
+      "evaluacion": "1ª Evaluación Final",
+      "publicada": true,
+      "archivada": false,
+      "entregas": [],
+      "adjuntos": [],
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "unidadId": "niuG5DmdK9AgsQs2YCdX",
+      "peso": 20
+    },
+    {
+      "id": "dF9ES5oHz65xyleICD8U",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "titulo": "Actividad evaluable RA5 · Plan de transformación digital de una empresa",
+      "descripcion": "5.1 Configuración de una empresa clásica. Digitalización.\n5.2 TDH implicadas en cada etapa. Relación entre etapas.\n5.3 Configuración de la empresa digitalizada.\n5.4 Plan de transformación. Recursos empleados.",
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "fechaPublicacion": {
+        "_seconds": 1788937200,
+        "_nanoseconds": 0
+      },
+      "fechaEntrega": {
+        "_seconds": 1803801600,
+        "_nanoseconds": 0
+      },
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 10,
+      "penalizacionRetraso": 20,
+      "permiteEntregaTardia": true,
+      "esGrupal": false,
+      "requiereArchivo": true,
+      "evaluacion": "2ª Evaluación",
+      "publicada": true,
+      "archivada": false,
+      "entregas": [],
+      "adjuntos": [],
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "unidadId": "wzXUCWjaP7J1p9jIIc5n",
+      "peso": 20
+    },
+    {
+      "id": "iMaXGYpfzFxYBGcbTtZK",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "titulo": "Actividad evaluable RA3 · Sistemas basados en la nube",
+      "descripcion": "3.1 Cloud. Definición y niveles.\n3.2 Posibilidades del trabajo en la cloud.\n3.3 Edge computing y su relación con la cloud.\n3.4 Fog y mist. Relación con la cloud.\n3.5 Ventajas del uso de la cloud.\n3.6 Cloud y rentabilidad de la empresa.",
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "fechaPublicacion": {
+        "_seconds": 1788937200,
+        "_nanoseconds": 0
+      },
+      "fechaEntrega": {
+        "_seconds": 1803539907,
+        "_nanoseconds": 692000000
+      },
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 10,
+      "penalizacionRetraso": 20,
+      "permiteEntregaTardia": true,
+      "esGrupal": false,
+      "requiereArchivo": true,
+      "evaluacion": "1ª Evaluación Final",
+      "publicada": true,
+      "archivada": false,
+      "entregas": [],
+      "adjuntos": [],
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "unidadId": "v7mXtZ57P6mVR7pA0wP5",
+      "peso": 20
+    }
+  ],
+  "examenes": [
+    {
+      "id": "7ZYMxwKSqdyhMSdSW9Ds",
+      "titulo": "Prueba escrita 1ª Evaluación · RA1–RA2",
+      "descripcion": "Prueba de los resultados de aprendizaje RA1–RA2 (UD 1, 2).",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "tipo": "parcial",
+      "evaluacion": "1ª Evaluación",
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 0,
+      "notaMinimaAprobado": 5,
+      "tienePonderacion": false,
+      "horaInicio": "08:30",
+      "horaFin": "10:20",
+      "aula": "",
+      "duracionMinutos": 110,
+      "fecha": {
+        "_seconds": 1797926400,
+        "_nanoseconds": 0
+      },
+      "publicado": false,
+      "resultadosPublicados": false,
+      "permiteRecuperacion": true,
+      "calificaciones": [],
+      "secciones": [],
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "unidadId": "QuKpeh9QCVCyN3O4CrXt",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "esFinal": false
+    },
+    {
+      "id": "YZAjxbcQHjNcaQl1MBXM",
+      "titulo": "Prueba escrita 3ª Evaluación · RA5",
+      "descripcion": "Prueba de los resultados de aprendizaje RA5 (UD 5).",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "tipo": "final",
+      "evaluacion": "2ª Evaluación",
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 0,
+      "notaMinimaAprobado": 5,
+      "tienePonderacion": false,
+      "horaInicio": "08:30",
+      "horaFin": "10:20",
+      "aula": "",
+      "duracionMinutos": 110,
+      "fecha": {
+        "_seconds": 1803801600,
+        "_nanoseconds": 0
+      },
+      "publicado": false,
+      "resultadosPublicados": false,
+      "permiteRecuperacion": true,
+      "calificaciones": [],
+      "secciones": [],
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "unidadId": "QuKpeh9QCVCyN3O4CrXt",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "esFinal": true
+    },
+    {
+      "id": "mz1XofAieQ3Kn7zPkyMT",
+      "titulo": "Prueba escrita 2ª Evaluación · RA3–RA4",
+      "descripcion": "Prueba de los resultados de aprendizaje RA3–RA4 (UD 3, 4).",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "JO4shgROeGSZmqFM1Ban",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "tipo": "parcial",
+      "evaluacion": "1ª Evaluación Final",
+      "puntuacionMaxima": 10,
+      "porcentajeNotaFinal": 0,
+      "notaMinimaAprobado": 5,
+      "tienePonderacion": false,
+      "horaInicio": "08:30",
+      "horaFin": "10:20",
+      "aula": "",
+      "duracionMinutos": 110,
+      "fecha": {
+        "_seconds": 1803726000,
+        "_nanoseconds": 0
+      },
+      "publicado": false,
+      "resultadosPublicados": false,
+      "permiteRecuperacion": true,
+      "calificaciones": [],
+      "secciones": [],
+      "resultadosAprendizajeIds": [],
+      "criteriosEvaluacionIds": [],
+      "unidadId": "QuKpeh9QCVCyN3O4CrXt",
+      "createdAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "updatedAt": {
+        "_seconds": 1781636738,
+        "_nanoseconds": 914000000
+      },
+      "cursoAcademico": "2026-2027",
+      "origen": "seed-dasp",
+      "esFinal": false
+    }
+  ]
+}

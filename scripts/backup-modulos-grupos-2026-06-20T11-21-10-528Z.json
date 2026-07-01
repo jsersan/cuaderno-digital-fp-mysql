@@ -1,0 +1,153 @@
+{
+  "generado": "2026-06-20T11:21:08.361Z",
+  "modulos": [
+    {
+      "id": "lJ0d3IFKltKuCXdfNzNd",
+      "nombre": "Proyecto",
+      "abreviatura": "PROI",
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "curso": 2,
+      "horasSemanales": 1.5,
+      "horasTotales": 48,
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "resultadosAprendizaje": [],
+      "ponderacionRA": {},
+      "criteriosCalificacion": {
+        "porcentajeExamenes": 60,
+        "porcentajeTareas": 20,
+        "porcentajeActitud": 10,
+        "porcentajeAsistencia": 10,
+        "notaMinimaAprobado": 5,
+        "porcentajeMinimoAsistencia": 85,
+        "requiereAprobadoExamen": false,
+        "recuperacionDisponible": true
+      },
+      "activo": true,
+      "esFCT": false,
+      "esProyecto": false,
+      "createdAt": {
+        "_seconds": 1781899258,
+        "_nanoseconds": 908000000
+      },
+      "cursosArchivados": [
+        "2026-2027",
+        "2025-2026"
+      ],
+      "updatedAt": {
+        "_seconds": 1781903835,
+        "_nanoseconds": 280000000
+      }
+    },
+    {
+      "id": "FG3sFdVErRh26V7YaIAE",
+      "nombre": "Proyecto",
+      "abreviatura": "PROY",
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "curso": 2,
+      "horasSemanales": 2,
+      "horasTotales": 64,
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "resultadosAprendizaje": [],
+      "ponderacionRA": {},
+      "criteriosCalificacion": {
+        "porcentajeExamenes": 60,
+        "porcentajeTareas": 20,
+        "porcentajeActitud": 10,
+        "porcentajeAsistencia": 10,
+        "notaMinimaAprobado": 5,
+        "porcentajeMinimoAsistencia": 85,
+        "requiereAprobadoExamen": false,
+        "recuperacionDisponible": true
+      },
+      "activo": true,
+      "esFCT": false,
+      "esProyecto": false,
+      "createdAt": {
+        "_seconds": 1781872056,
+        "_nanoseconds": 869000000
+      },
+      "cursosArchivados": [
+        "2026-2027",
+        "2025-2026"
+      ],
+      "updatedAt": {
+        "_seconds": 1781903904,
+        "_nanoseconds": 598000000
+      }
+    }
+  ],
+  "grupos": [
+    {
+      "id": "PuFIWchb1TJ7SGEpxvUG",
+      "nombre": "SM2",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "cicloNombre": "Sistemas Microinformáticos y Redes",
+      "centroId": "default",
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "alumnosIds": [],
+      "modulosIds": [
+        "lJ0d3IFKltKuCXdfNzNd"
+      ],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1781899259,
+        "_nanoseconds": 100000000
+      },
+      "updatedAt": {
+        "_seconds": 1781899259,
+        "_nanoseconds": 100000000
+      }
+    },
+    {
+      "id": "MESWcuGHQO6yP7rxwFKh",
+      "nombre": "SM2",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "cicloNombre": "Sistemas Microinformáticos y Redes",
+      "centroId": "default",
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "alumnosIds": [],
+      "modulosIds": [
+        "FG3sFdVErRh26V7YaIAE"
+      ],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1781872057,
+        "_nanoseconds": 155000000
+      },
+      "updatedAt": {
+        "_seconds": 1781872057,
+        "_nanoseconds": 155000000
+      }
+    },
+    {
+      "id": "EtIYPCvquwkb1BX4Fspm",
+      "nombre": "SM2",
+      "curso": 2,
+      "letra": "A",
+      "cicloId": "0BYE5g8i540QjQhyNn8l",
+      "cicloNombre": "Sistemas Microinformáticos y Redes",
+      "centroId": "default",
+      "tutorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "cursoAcademico": "2026-2027",
+      "alumnosIds": [],
+      "modulosIds": [
+        "qjhDxHpiyGQcoTWHyNXJ"
+      ],
+      "activo": true,
+      "createdAt": {
+        "_seconds": 1781899413,
+        "_nanoseconds": 147000000
+      },
+      "updatedAt": {
+        "_seconds": 1781899413,
+        "_nanoseconds": 147000000
+      }
+    }
+  ]
+}

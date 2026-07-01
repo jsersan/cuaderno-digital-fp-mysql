@@ -1,0 +1,80 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "alumnos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "centroId", "order": "ASCENDING" },
+        { "fieldPath": "grupoId", "order": "ASCENDING" },
+        { "fieldPath": "estado", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "alumnos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "grupoId", "order": "ASCENDING" },
+        { "fieldPath": "apellidos", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "tareas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "profesorId", "order": "ASCENDING" },
+        { "fieldPath": "fechaEntrega", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "tareas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "moduloId", "order": "ASCENDING" },
+        { "fieldPath": "grupoId", "order": "ASCENDING" },
+        { "fieldPath": "fechaEntrega", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "examenes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "profesorId", "order": "ASCENDING" },
+        { "fieldPath": "fecha", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "calificaciones",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "moduloId", "order": "ASCENDING" },
+        { "fieldPath": "grupoId", "order": "ASCENDING" },
+        { "fieldPath": "evaluacion", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "asistencia",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "grupoId", "order": "ASCENDING" },
+        { "fieldPath": "fecha", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "recuperaciones",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "profesorId", "order": "ASCENDING" },
+        { "fieldPath": "fecha", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "observaciones",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "alumnoId", "order": "ASCENDING" },
+        { "fieldPath": "fecha", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

@@ -1,0 +1,902 @@
+{
+  "generado": "2026-06-19T19:17:16.540Z",
+  "moduloPrevio": {
+    "nombre": "Digitalización aplicada a los sectores productivos",
+    "abreviatura": "DASP",
+    "cicloId": "0BYE5g8i540QjQhyNn8l",
+    "centroId": "default",
+    "horasSemanales": 1,
+    "horasTotales": 32,
+    "cursoAcademico": "2026-2027",
+    "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+    "cursosArchivados": [
+      "2025-2026"
+    ],
+    "updatedAt": {
+      "_seconds": 1781863507,
+      "_nanoseconds": 466000000
+    },
+    "resultadosAprendizaje": [
+      {
+        "codigo": "RA1",
+        "descripcion": "Establece las diferencias entre la Economía Lineal (EL) y la Economía Circular (EC), identificando las ventajas de la EC en relación con el medioambiente y el desarrollo sostenible.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "codigo": "CE1.a",
+            "descripcion": "Se han identificado las etapas «típicas» de los modelos basados en EL y modelos basados en EC.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE1.b",
+            "descripcion": "Se ha analizado cada etapa de los modelos EL y EC y su repercusión en el medio ambiente.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE1.c",
+            "descripcion": "Se ha valorado la importancia del reciclaje en los modelos económicos.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE1.d",
+            "descripcion": "Se han identificado procesos reales basados en EL.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE1.e",
+            "descripcion": "Se han identificado procesos reales basados en EC.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE1.f",
+            "descripcion": "Se han comparado los modelos anteriores en relación con su impacto medioambiental y los ODS (Objetivos de Desarrollo Sostenible).",
+            "peso": 16.67
+          }
+        ]
+      },
+      {
+        "codigo": "RA2",
+        "descripcion": "Caracteriza los principales aspectos de la 4.ª Revolución Industrial indicando los cambios y las ventajas que se producen tanto desde el punto de vista de los clientes como de las empresas.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "codigo": "CE2.a",
+            "descripcion": "Se han relacionado los sistemas ciberfísicos con la evolución industrial.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE2.b",
+            "descripcion": "Se ha analizado el cambio producido en los sistemas automatizados.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE2.c",
+            "descripcion": "Se ha descrito la combinación de la parte física de las industrias con el software, IoT, comunicaciones, entre otros.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE2.d",
+            "descripcion": "Se ha descrito la interrelación entre el mundo físico y el virtual.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE2.e",
+            "descripcion": "Se ha relacionado la migración a entornos 4.0 con la mejora de los resultados de las empresas.",
+            "peso": 16.67
+          },
+          {
+            "codigo": "CE2.f",
+            "descripcion": "Se han identificado las ventajas para clientes y empresas.",
+            "peso": 16.67
+          }
+        ]
+      },
+      {
+        "codigo": "RA3",
+        "descripcion": "Identifica la estructura de los sistemas basados en cloud/nube describiendo su tipología y campo de aplicación.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "codigo": "CE3.a",
+            "descripcion": "Se han identificado los diferentes niveles de la cloud/nube.",
+            "peso": 20
+          },
+          {
+            "codigo": "CE3.b",
+            "descripcion": "Se han identificado las principales funciones de la cloud/nube (procesamiento de datos, intercambio de información, ejecución de aplicaciones, entre otros).",
+            "peso": 20
+          },
+          {
+            "codigo": "CE3.c",
+            "descripcion": "Se ha descrito el concepto de edge computing y su relación con la cloud/nube.",
+            "peso": 20
+          },
+          {
+            "codigo": "CE3.d",
+            "descripcion": "Se han definido los conceptos de fog y mist y sus zonas de aplicación en el conjunto.",
+            "peso": 20
+          },
+          {
+            "codigo": "CE3.e",
+            "descripcion": "Se han identificado las ventajas que proporciona la utilización de la cloud/nube en los sistemas conectados.",
+            "peso": 20
+          }
+        ]
+      },
+      {
+        "codigo": "RA4",
+        "descripcion": "Compara los sistemas de producción/prestación de servicios digitalizados con los sistemas clásicos identificando las mejoras introducidas.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "codigo": "CE4.a",
+            "descripcion": "Se han identificado las tecnologías habilitadoras (THD) actuales que definen un sistema digitalizado.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE4.b",
+            "descripcion": "Se han descrito las características y aplicaciones del IoT, IA, Big Data, tecnología 5G, robótica colaborativa, Blockchain, Ciberseguridad, fabricación aditiva, realidad virtual y gemelos digitales, entre otras.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE4.c",
+            "descripcion": "Se ha descrito la contribución de las THD a la mejora de la productividad y la eficiencia de los sistemas productivos o de prestación de servicios.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE4.d",
+            "descripcion": "Se ha relacionado la alineación entre las unidades funcionales de las empresas que conforman el sistema y el objetivo del mismo.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE4.e",
+            "descripcion": "Se ha relacionado la implantación de las tecnologías habilitadoras (sensórica, tratamiento de datos, automatización y comunicaciones) con la reducción de costes y la mejora de la competitividad.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE4.f",
+            "descripcion": "Se han relacionado las tecnologías disruptivas con aplicaciones concretas en los sectores productivos.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE4.g",
+            "descripcion": "Se han definido los sistemas de almacenamiento de datos no convencionales y el acceso a los mismos desde cada unidad.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE4.h",
+            "descripcion": "Se han descrito las mejoras producidas en el sistema y en cada una de sus etapas.",
+            "peso": 12.5
+          }
+        ]
+      },
+      {
+        "codigo": "RA5",
+        "descripcion": "Elabora un plan de transformación de una empresa clásica del sector en el que se enmarca el título, basada en una EL, al concepto 4.0, determinando los cambios a introducir en las principales fases del sistema e indicando cómo afectaría a los recursos humanos.",
+        "peso": 20,
+        "criteriosEvaluacion": [
+          {
+            "codigo": "CE5.a",
+            "descripcion": "Se ha definido a nivel de bloques el diagrama de funcionamiento de la empresa clásica.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE5.b",
+            "descripcion": "Se han identificado las etapas susceptibles de ser digitalizadas.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE5.c",
+            "descripcion": "Se han definido las tecnologías implicadas en cada una de las etapas.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE5.d",
+            "descripcion": "Se ha establecido la conexión de las etapas digitalizadas con el resto del sistema.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE5.e",
+            "descripcion": "Se ha elaborado un diagrama de bloques del sistema digitalizado.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE5.f",
+            "descripcion": "Se ha elaborado un informe de viabilidad y de las mejoras introducidas.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE5.g",
+            "descripcion": "Se ha analizado la mejora en la producción y gestión de residuos, entre otras.",
+            "peso": 12.5
+          },
+          {
+            "codigo": "CE5.h",
+            "descripcion": "Se ha elaborado un documento con la secuencia del plan de transformación y los recursos empleados.",
+            "peso": 12.5
+          }
+        ]
+      }
+    ]
+  },
+  "eventosPrevios": [
+    {
+      "id": "0JSag0bzetVShgWZWLJN",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD1. Digitalización y sostenibilidad",
+      "descripcion": "1.1 Economías lineal y circular. Modelos de empresas basados en ambas.\n1.2 Responsabilidad social: modelos de empresas y afectación del medioambiente.\n1.3 Importancia del reciclaje en los modelos económicos.\n1.4 Procesos reales basados en la EL y en la EC.\n1.5 Comparativa de modelos según su impacto medioambiental y los ODS.",
+      "fechaInicio": {
+        "_seconds": 1789344000,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1792368000,
+        "_nanoseconds": 0
+      },
+      "color": "#1565C0",
+      "unidadId": "dasp-ud1",
+      "udNumero": 1,
+      "raAsociado": "RA1",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "0Qfozf7dfcswYOfvSp4l",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD3. Sistemas basados en la nube",
+      "descripcion": "3.1 Cloud. Definición y niveles.\n3.2 Posibilidades del trabajo en la cloud.\n3.3 Edge computing y su relación con la cloud.\n3.4 Fog y mist. Relación con la cloud.\n3.5 Ventajas del uso de los recursos de la cloud.\n3.6 Uso de la cloud y la rentabilidad de la empresa.",
+      "fechaInicio": {
+        "_seconds": 1794960000,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1797552000,
+        "_nanoseconds": 0
+      },
+      "color": "#EF6C00",
+      "unidadId": "dasp-ud3",
+      "udNumero": 3,
+      "raAsociado": "RA3",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "BFKMEuOIXnM2ZooyZ4q6",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "tipo": "actividad",
+      "titulo": "A5. Plan de transformación digital (I): diagnóstico",
+      "descripcion": "Diagrama de bloques de una empresa clásica e identificación de las etapas digitalizables y las tecnologías implicadas en cada una.",
+      "fechaInicio": {
+        "_seconds": 1805583540,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1805583540,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "raAsociado": "RA5",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "BIzOj4m4rTzwUgrJbvn0",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "tipo": "actividad",
+      "titulo": "A4. Catálogo de Tecnologías Habilitadoras Digitales",
+      "descripcion": "Cataloga al menos 6 THD (IoT, IA, Big Data, 5G, blockchain, gemelos digitales…) con una aplicación real en un sector productivo y su aporte a productividad/eficiencia.",
+      "fechaInicio": {
+        "_seconds": 1802732340,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1802732340,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "raAsociado": "RA4",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "BKHZEH0ZNGGgDRRKan2Z",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "examen",
+      "titulo": "Examen 1ª Evaluación — RA1, RA2 y RA3",
+      "descripcion": "Prueba escrita sobre economía circular/sostenibilidad, 4.ª revolución industrial y sistemas cloud. Teoría + supuestos prácticos. 90 min.",
+      "fechaInicio": {
+        "_seconds": 1797580800,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1797580800,
+        "_nanoseconds": 0
+      },
+      "color": "#C62828",
+      "raAsociado": "RA1+RA2+RA3",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "EothdsTWw0M5PVS4oVXH",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "tipo": "examen",
+      "titulo": "Examen 2ª Evaluación — RA4 y RA5",
+      "descripcion": "Prueba escrita sobre tecnologías habilitadoras y plan de transformación digital. Teoría + supuesto práctico de digitalización de una empresa. 90 min.",
+      "fechaInicio": {
+        "_seconds": 1805529600,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1805529600,
+        "_nanoseconds": 0
+      },
+      "color": "#C62828",
+      "raAsociado": "RA4+RA5",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "PM1w7M4e2ZE1KiWQVtMd",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD2. La cuarta revolución industrial",
+      "descripcion": "2.1 Sistemas ciberfísicos. Relación con la evolución industrial.\n2.2 Sistemas automatizados. Cambios provocados por la cuarta revolución.\n2.3 Interrelación entre el mundo físico y el virtual.\n2.4 Ventajas de la migración a entornos 4.0.\n2.5 Ventajas de la 4.ª revolución industrial para clientes y empresas.",
+      "fechaInicio": {
+        "_seconds": 1792368000,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1794960000,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "unidadId": "dasp-ud2",
+      "udNumero": 2,
+      "raAsociado": "RA2",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "UL9GiLsi6saTmzwCDE1p",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "tipo": "actividad",
+      "titulo": "A6. Plan de transformación digital (II): propuesta",
+      "descripcion": "Diagrama del sistema digitalizado, informe de viabilidad, mejoras (producción y residuos) y documento final con la secuencia del plan y los recursos.",
+      "fechaInicio": {
+        "_seconds": 1805583540,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1805583540,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "raAsociado": "RA5",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "Ur51yFcUeCCSJnwiC16X",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD4. Características de los sistemas de producción",
+      "descripcion": "4.1 Tecnologías habilitadoras (THD) actuales. Características y aplicaciones.\n4.2 Relación entre THD y productividad.\n4.3 Implantación de THD: reducción de costes y mejora de la competitividad.\n4.4 Sistemas digitalizados reales. Ejemplos.\n4.5 Tecnología disruptiva. Ejemplos.\n4.6 Sistemas de almacenamiento de datos.",
+      "fechaInicio": {
+        "_seconds": 1799366400,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1802669538,
+        "_nanoseconds": 461000000
+      },
+      "color": "#6A1B9A",
+      "unidadId": "dasp-ud4",
+      "udNumero": 4,
+      "raAsociado": "RA4",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "g1De4THlrUwsL3ZYKssQ",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "actividad",
+      "titulo": "A1. Economía lineal vs circular y los ODS",
+      "descripcion": "Analiza dos empresas reales (una EL y una EC), describe sus etapas y compáralas por impacto ambiental relacionándolas con los ODS. Entrega un informe con conclusiones.",
+      "fechaInicio": {
+        "_seconds": 1792447140,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1792447140,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "raAsociado": "RA1",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "gwttpndM9EsQ10hO9vog",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "actividad",
+      "titulo": "A2. Estudio de un sistema ciberfísico (Industria 4.0)",
+      "descripcion": "Elige un sistema ciberfísico real (línea de producción, almacén automatizado…) y explica la interrelación físico-virtual y las ventajas 4.0 para clientes y empresa.",
+      "fechaInicio": {
+        "_seconds": 1795042740,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1795042740,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "raAsociado": "RA2",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "wUNPWeKuRZNPwQWtgSqy",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "tipo": "tema",
+      "titulo": "UD5. Plan de transformación digital de una empresa",
+      "descripcion": "5.1 Configuración de una empresa clásica. Digitalización de la empresa o sus unidades.\n5.2 THD implicadas en la digitalización de las etapas. Relación entre etapas.\n5.3 Configuración de la empresa digitalizada.\n5.4 Plan de transformación. Recursos empleados.",
+      "fechaInicio": {
+        "_seconds": 1802669538,
+        "_nanoseconds": 461000000
+      },
+      "fechaFin": {
+        "_seconds": 1805500800,
+        "_nanoseconds": 0
+      },
+      "color": "#00838F",
+      "unidadId": "dasp-ud5",
+      "udNumero": 5,
+      "raAsociado": "RA5",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "wlJTXqIFqlUjlzlQ8e0a",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "tipo": "actividad",
+      "titulo": "A3. Mapa de la nube: niveles, edge, fog y mist",
+      "descripcion": "Elabora un esquema con los niveles de la cloud y ubica edge, fog y mist con un caso de uso para cada uno. Justifica las ventajas para un sistema conectado.",
+      "fechaInicio": {
+        "_seconds": 1797634740,
+        "_nanoseconds": 0
+      },
+      "fechaFin": {
+        "_seconds": 1797634740,
+        "_nanoseconds": 0
+      },
+      "color": "#2E7D32",
+      "raAsociado": "RA3",
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    }
+  ],
+  "tareasPrevias": [
+    {
+      "id": "8p5qxO9P0qX7ewCAwNLc",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "titulo": "A6. Plan de transformación digital (II): propuesta",
+      "descripcion": "Diagrama del sistema digitalizado, informe de viabilidad, mejoras (producción y residuos) y documento final con la secuencia del plan y los recursos.",
+      "ra": "RA5",
+      "puntuacionMaxima": 10,
+      "fechaEntrega": {
+        "_seconds": 1805583540,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "QHSXycKV4GjbEClmeNgP",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "titulo": "A3. Mapa de la nube: niveles, edge, fog y mist",
+      "descripcion": "Elabora un esquema con los niveles de la cloud y ubica edge, fog y mist con un caso de uso para cada uno. Justifica las ventajas para un sistema conectado.",
+      "ra": "RA3",
+      "puntuacionMaxima": 10,
+      "fechaEntrega": {
+        "_seconds": 1797634740,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "bMclLRFBLSj0MyoYZvJJ",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "titulo": "A4. Catálogo de Tecnologías Habilitadoras Digitales",
+      "descripcion": "Cataloga al menos 6 THD (IoT, IA, Big Data, 5G, blockchain, gemelos digitales…) con una aplicación real en un sector productivo y su aporte a productividad/eficiencia.",
+      "ra": "RA4",
+      "puntuacionMaxima": 10,
+      "fechaEntrega": {
+        "_seconds": 1802732340,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "bid0Z1GYYDNSGg7tNKEl",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "titulo": "A1. Economía lineal vs circular y los ODS",
+      "descripcion": "Analiza dos empresas reales (una EL y una EC), describe sus etapas y compáralas por impacto ambiental relacionándolas con los ODS. Entrega un informe con conclusiones.",
+      "ra": "RA1",
+      "puntuacionMaxima": 10,
+      "fechaEntrega": {
+        "_seconds": 1792447140,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "bw10OWPy2LtjzaF1pI67",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "titulo": "A2. Estudio de un sistema ciberfísico (Industria 4.0)",
+      "descripcion": "Elige un sistema ciberfísico real (línea de producción, almacén automatizado…) y explica la interrelación físico-virtual y las ventajas 4.0 para clientes y empresa.",
+      "ra": "RA2",
+      "puntuacionMaxima": 10,
+      "fechaEntrega": {
+        "_seconds": 1795042740,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "oA8ErvxBHW8DTVHygGE3",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "titulo": "A5. Plan de transformación digital (I): diagnóstico",
+      "descripcion": "Diagrama de bloques de una empresa clásica e identificación de las etapas digitalizables y las tecnologías implicadas en cada una.",
+      "ra": "RA5",
+      "puntuacionMaxima": 10,
+      "fechaEntrega": {
+        "_seconds": 1805583540,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    }
+  ],
+  "examenesPrevios": [
+    {
+      "id": "88GKTnksxYW1K6YC0xqn",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "1ª Evaluación",
+      "titulo": "Examen 1ª Evaluación — RA1, RA2 y RA3",
+      "descripcion": "Prueba escrita sobre economía circular/sostenibilidad, 4.ª revolución industrial y sistemas cloud. Teoría + supuestos prácticos. 90 min.",
+      "ras": [
+        "RA1",
+        "RA2",
+        "RA3"
+      ],
+      "ra": "RA1+RA2+RA3",
+      "duracion": 90,
+      "puntuacionMaxima": 10,
+      "fecha": {
+        "_seconds": 1797580800,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    },
+    {
+      "id": "Vl6FIBeHYWTPeLfFsdTK",
+      "moduloId": "6e5boC0eBPYcMgGMT36r",
+      "grupoId": "6FizW6wI8iHYzoSWCV8y",
+      "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+      "profesoresIds": [
+        "21m6mMuCAieZ7ZpcR2xfm9kH9yc2"
+      ],
+      "cursoAcademico": "2026-2027",
+      "evaluacion": "2ª Evaluación",
+      "titulo": "Examen 2ª Evaluación — RA4 y RA5",
+      "descripcion": "Prueba escrita sobre tecnologías habilitadoras y plan de transformación digital. Teoría + supuesto práctico de digitalización de una empresa. 90 min.",
+      "ras": [
+        "RA4",
+        "RA5"
+      ],
+      "ra": "RA4+RA5",
+      "duracion": 90,
+      "puntuacionMaxima": 10,
+      "fecha": {
+        "_seconds": 1805529600,
+        "_nanoseconds": 0
+      },
+      "origen": "seed-dasp",
+      "createdAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      },
+      "updatedAt": {
+        "_seconds": 1781876441,
+        "_nanoseconds": 478000000
+      }
+    }
+  ]
+}

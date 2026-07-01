@@ -1,0 +1,1989 @@
+{
+  "generado": "2026-06-20T05:08:41.323Z",
+  "borrados": {
+    "eventos_programacion": [
+      {
+        "id": "2HeYZ4vLZWnO4fJ7HPc2",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "1ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Presentación del proyecto",
+        "descripcion": "Exposición del proyecto ante el equipo docente (sin prueba de examen).",
+        "fechaInicio": {
+          "_seconds": 1811973600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1812060000,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "37aeI6xUTeOmq2j7ByC0",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Propuesta del proyecto",
+        "descripcion": "Selección del proyecto (montaje, red o servicio), problema que resuelve y objetivos.",
+        "fechaInicio": {
+          "_seconds": 1803942000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1804892400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "DK8MpZbGcaXXacRyfPBe",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Configuración y pruebas finales",
+        "descripcion": "Configuración definitiva de servicios y seguridad, pruebas de funcionamiento y corrección de fallos.",
+        "fechaInicio": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1812751200,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "XSVUOYX7V2vNQHtrqCvX",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Presentación del proyecto",
+        "descripcion": "Exposición del proyecto ante el equipo docente (sin prueba de examen).",
+        "fechaInicio": {
+          "_seconds": 1813788000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813874400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "YVbypLvEwMmsBDouvJPT",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Documentación: memoria y manuales",
+        "descripcion": "Redacción de la memoria del proyecto, manual de usuario y manual técnico/de instalación.",
+        "fechaInicio": {
+          "_seconds": 1812405600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813183200,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "dxH90GVv3NaTvkGqeCLS",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Presentación del módulo y normativa del proyecto",
+        "descripcion": "Objetivos, criterios de evaluación, calendario de hitos y normativa de presentación del proyecto.",
+        "fechaInicio": {
+          "_seconds": 1803078000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1803682800,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "hTCMczAOIvxRJFDMSii5",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Diseño de la solución: equipos, red y direccionamiento",
+        "descripcion": "Topología de red, esquema de equipos, direccionamiento IP, servicios y diagramas de la solución.",
+        "fechaInicio": {
+          "_seconds": 1807567200,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1808517600,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "i5HMmCji5G5qybxjcijN",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Entrega de la memoria final",
+        "descripcion": "Entrega del proyecto completo: configuración, memoria y material de presentación.",
+        "fechaInicio": {
+          "_seconds": 1813615200,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813701600,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "ibgQN5CGiuIzDc7dZLxA",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Entrega del anteproyecto",
+        "descripcion": "Documento de anteproyecto: descripción, objetivos, recursos previstos y planificación inicial.",
+        "fechaInicio": {
+          "_seconds": 1806357600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1807308000,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "ppe522MltBmRwZxDNJgk",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Selección de hardware/software y presupuesto",
+        "descripcion": "Elección de equipos, sistemas operativos y software; presupuesto y justificación técnica.",
+        "fechaInicio": {
+          "_seconds": 1808776800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1809727200,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "rCBqnkAmIBOjleFfhXha",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Montaje e instalación (iteración 1)",
+        "descripcion": "Montaje del equipamiento, instalación de SO y configuración básica de red y servicios.",
+        "fechaInicio": {
+          "_seconds": 1809986400,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1811541600,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "wzixHBVZCC78F8d502W0",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Análisis de necesidades y requisitos del sistema",
+        "descripcion": "Estudio de necesidades del cliente/escenario, requisitos del sistema y alcance del proyecto.",
+        "fechaInicio": {
+          "_seconds": 1805151600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1806102000,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "x7vKBvG4gtwAmFqdXvBB",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "1ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Entrega de la memoria final",
+        "descripcion": "Entrega del proyecto completo: configuración, memoria y material de presentación.",
+        "fechaInicio": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813442400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929368,
+          "_nanoseconds": 216000000
+        }
+      },
+      {
+        "id": "0dBNvfPAYRaj7nOGbhhf",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "1ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Presentación del proyecto",
+        "descripcion": "Exposición del proyecto ante el equipo docente (sin prueba de examen).",
+        "fechaInicio": {
+          "_seconds": 1811973600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1812060000,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "1THuikrBdAPmAjdP7xOe",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Entrega de la memoria final",
+        "descripcion": "Entrega del proyecto completo: configuración, memoria y material de presentación.",
+        "fechaInicio": {
+          "_seconds": 1813615200,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813701600,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "4QyvcIGDQdk9FzVZdwJa",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Presentación del módulo y normativa del proyecto",
+        "descripcion": "Objetivos, criterios de evaluación, calendario de hitos y normativa de presentación del proyecto.",
+        "fechaInicio": {
+          "_seconds": 1803078000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1803682800,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "4bcImluxThodi0CdL0h5",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Configuración y pruebas finales",
+        "descripcion": "Configuración definitiva de servicios y seguridad, pruebas de funcionamiento y corrección de fallos.",
+        "fechaInicio": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1812751200,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "HaRX3ENMSGef5tKjWNy5",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Diseño de la solución: equipos, red y direccionamiento",
+        "descripcion": "Topología de red, esquema de equipos, direccionamiento IP, servicios y diagramas de la solución.",
+        "fechaInicio": {
+          "_seconds": 1807567200,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1808517600,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "IlahkPYGcffy2sp52kbg",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Entrega del anteproyecto",
+        "descripcion": "Documento de anteproyecto: descripción, objetivos, recursos previstos y planificación inicial.",
+        "fechaInicio": {
+          "_seconds": 1806357600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1807308000,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "JNcpm8Qz2lTxvYh8Cfll",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Montaje e instalación (iteración 1)",
+        "descripcion": "Montaje del equipamiento, instalación de SO y configuración básica de red y servicios.",
+        "fechaInicio": {
+          "_seconds": 1809986400,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1811541600,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "Nm1BigER5cCHAfPogK6E",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Análisis de necesidades y requisitos del sistema",
+        "descripcion": "Estudio de necesidades del cliente/escenario, requisitos del sistema y alcance del proyecto.",
+        "fechaInicio": {
+          "_seconds": 1805151600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1806102000,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "Pas9zPkt2sUADTGX9OwX",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Propuesta del proyecto",
+        "descripcion": "Selección del proyecto (montaje, red o servicio), problema que resuelve y objetivos.",
+        "fechaInicio": {
+          "_seconds": 1803942000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1804892400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "WZ1fxJnvGyd1RVr57qEY",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "1ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Entrega de la memoria final",
+        "descripcion": "Entrega del proyecto completo: configuración, memoria y material de presentación.",
+        "fechaInicio": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813442400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "Z6Rn6YVCmfLQoXlG4j4g",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Selección de hardware/software y presupuesto",
+        "descripcion": "Elección de equipos, sistemas operativos y software; presupuesto y justificación técnica.",
+        "fechaInicio": {
+          "_seconds": 1808776800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1809727200,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "kCbfmcl60iqupDFLCAqg",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Presentación del proyecto",
+        "descripcion": "Exposición del proyecto ante el equipo docente (sin prueba de examen).",
+        "fechaInicio": {
+          "_seconds": 1813788000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813874400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "nDQr0JuP1yh37Ipw6moS",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Documentación: memoria y manuales",
+        "descripcion": "Redacción de la memoria del proyecto, manual de usuario y manual técnico/de instalación.",
+        "fechaInicio": {
+          "_seconds": 1812405600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813183200,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928346,
+          "_nanoseconds": 360000000
+        }
+      },
+      {
+        "id": "07dmjrmzLisrrOQIJ11z",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Propuesta del proyecto",
+        "descripcion": "Selección del proyecto (montaje, red o servicio), problema que resuelve y objetivos.",
+        "fechaInicio": {
+          "_seconds": 1803942000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1804892400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "1K5OggW8GcDxYzmART1k",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Entrega de la memoria final",
+        "descripcion": "Entrega del proyecto completo: configuración, memoria y material de presentación.",
+        "fechaInicio": {
+          "_seconds": 1813615200,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813701600,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "2YP8NijHtjDVQYNW0YFY",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Documentación: memoria y manuales",
+        "descripcion": "Redacción de la memoria del proyecto, manual de usuario y manual técnico/de instalación.",
+        "fechaInicio": {
+          "_seconds": 1812405600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813183200,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "4KuRXFVy9EozmtMK22gZ",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "1ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Presentación del proyecto",
+        "descripcion": "Exposición del proyecto ante el equipo docente (sin prueba de examen).",
+        "fechaInicio": {
+          "_seconds": 1811973600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1812060000,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "6UR6fLiBrAeSbBi7iLCl",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Configuración y pruebas finales",
+        "descripcion": "Configuración definitiva de servicios y seguridad, pruebas de funcionamiento y corrección de fallos.",
+        "fechaInicio": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1812751200,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "6nrbhoI4WBmGaphnPSxF",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Análisis de necesidades y requisitos del sistema",
+        "descripcion": "Estudio de necesidades del cliente/escenario, requisitos del sistema y alcance del proyecto.",
+        "fechaInicio": {
+          "_seconds": 1805151600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1806102000,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "IO5pk1CaD3iOYbfBKIVu",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Selección de hardware/software y presupuesto",
+        "descripcion": "Elección de equipos, sistemas operativos y software; presupuesto y justificación técnica.",
+        "fechaInicio": {
+          "_seconds": 1808776800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1809727200,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "d6Q6MnsDveZpWrp0DIT8",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Presentación del módulo y normativa del proyecto",
+        "descripcion": "Objetivos, criterios de evaluación, calendario de hitos y normativa de presentación del proyecto.",
+        "fechaInicio": {
+          "_seconds": 1803078000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1803682800,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "dTatql9VJyfUmEjrLL0I",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "tema",
+        "titulo": "Diseño de la solución: equipos, red y direccionamiento",
+        "descripcion": "Topología de red, esquema de equipos, direccionamiento IP, servicios y diagramas de la solución.",
+        "fechaInicio": {
+          "_seconds": 1807567200,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1808517600,
+          "_nanoseconds": 0
+        },
+        "color": "#1565c0",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "mRYuIERLgPyXnzxWLIkS",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "1ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Entrega de la memoria final",
+        "descripcion": "Entrega del proyecto completo: configuración, memoria y material de presentación.",
+        "fechaInicio": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813442400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "ppWIYbecISV6gIuoQF6u",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación Final",
+        "tipo": "actividad",
+        "titulo": "Presentación del proyecto",
+        "descripcion": "Exposición del proyecto ante el equipo docente (sin prueba de examen).",
+        "fechaInicio": {
+          "_seconds": 1813788000,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1813874400,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "tCz4Y1J19DaGtZo8Ic0l",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Entrega del anteproyecto",
+        "descripcion": "Documento de anteproyecto: descripción, objetivos, recursos previstos y planificación inicial.",
+        "fechaInicio": {
+          "_seconds": 1806357600,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1807308000,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      },
+      {
+        "id": "tWiJeUI8zyCZevVtVjwN",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "cursoAcademico": "2026-2027",
+        "evaluacion": "2ª Evaluación",
+        "tipo": "actividad",
+        "titulo": "Montaje e instalación (iteración 1)",
+        "descripcion": "Montaje del equipamiento, instalación de SO y configuración básica de red y servicios.",
+        "fechaInicio": {
+          "_seconds": 1809986400,
+          "_nanoseconds": 0
+        },
+        "fechaFin": {
+          "_seconds": 1811541600,
+          "_nanoseconds": 0
+        },
+        "color": "#2e7d32",
+        "resultadosAprendizajeIds": [],
+        "createdAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926912,
+          "_nanoseconds": 762000000
+        }
+      }
+    ],
+    "tareas": [
+      {
+        "id": "4HX0cQ4AcZ98fnGimwQL",
+        "titulo": "Entrega final (configuración + presentación)",
+        "descripcion": "Entrega del proyecto terminado: configuración, documentación de despliegue y material de la presentación.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1812060000,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 0,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "1ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "5AcrAoNYfsE365ElrRR4",
+        "titulo": "Montaje e instalación (avance)",
+        "descripcion": "Montaje del equipamiento, instalación de SO y configuración básica de red/servicios, con evidencias.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1809986400,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1811541600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 20,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "7T3mRhAcmnitUn2CrDBx",
+        "titulo": "Anteproyecto",
+        "descripcion": "Análisis de necesidades y requisitos del sistema, alcance, recursos previstos y planificación inicial.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1805151600,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1807308000,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "GdYnLJhmajjmcDXB8rJl",
+        "titulo": "Memoria del proyecto",
+        "descripcion": "Memoria completa: análisis, diseño, montaje, configuración, pruebas, manual de usuario y manual técnico.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811196000,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813701600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 25,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "O4DEo2kJYT1hHQgyMqvE",
+        "titulo": "Propuesta del proyecto",
+        "descripcion": "Documento breve con el proyecto elegido (montaje, red o servicio), el problema que resuelve y los objetivos.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1803942000,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1804892400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 10,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "RUjIfeHQxiTRH2iYYdNg",
+        "titulo": "Entrega final (configuración + presentación)",
+        "descripcion": "Entrega del proyecto terminado: configuración, documentación de despliegue y material de la presentación.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1812405600,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813874400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "b1HxDTfTr6c636OgPEvr",
+        "titulo": "Diseño de la solución (red y equipos)",
+        "descripcion": "Topología de red, esquema de equipos, direccionamiento IP, servicios, selección de hardware/software y presupuesto.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1807567200,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1808517600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "txJFuDEcCVAJYGm73GUj",
+        "titulo": "Memoria del proyecto",
+        "descripcion": "Memoria completa: análisis, diseño, montaje, configuración, pruebas, manual de usuario y manual técnico.",
+        "moduloId": "qjhDxHpiyGQcoTWHyNXJ",
+        "grupoId": "EtIYPCvquwkb1BX4Fspm",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813442400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 0,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "1ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        },
+        "updatedAt": {
+          "_seconds": 1781929369,
+          "_nanoseconds": 615000000
+        }
+      },
+      {
+        "id": "3CQg7zpyU1btDKiTDTjx",
+        "titulo": "Montaje e instalación (avance)",
+        "descripcion": "Montaje del equipamiento, instalación de SO y configuración básica de red/servicios, con evidencias.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1809986400,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1811541600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 20,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "6jQ34pIlFxgnvHKS8EYp",
+        "titulo": "Memoria del proyecto",
+        "descripcion": "Memoria completa: análisis, diseño, montaje, configuración, pruebas, manual de usuario y manual técnico.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811196000,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813701600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 25,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "CvIAm72B4xrwDSeoPVRv",
+        "titulo": "Memoria del proyecto",
+        "descripcion": "Memoria completa: análisis, diseño, montaje, configuración, pruebas, manual de usuario y manual técnico.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813442400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 0,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "1ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "GHrX8SHAhvyrUNWWLrq5",
+        "titulo": "Diseño de la solución (red y equipos)",
+        "descripcion": "Topología de red, esquema de equipos, direccionamiento IP, servicios, selección de hardware/software y presupuesto.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1807567200,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1808517600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "aiNpxl8SbqPZcIqpdANg",
+        "titulo": "Entrega final (configuración + presentación)",
+        "descripcion": "Entrega del proyecto terminado: configuración, documentación de despliegue y material de la presentación.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1812060000,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 0,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "1ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "e6W32edMKh9V2EHcsjiS",
+        "titulo": "Anteproyecto",
+        "descripcion": "Análisis de necesidades y requisitos del sistema, alcance, recursos previstos y planificación inicial.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1805151600,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1807308000,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "prQFP3Kfi30UPztd3YKN",
+        "titulo": "Propuesta del proyecto",
+        "descripcion": "Documento breve con el proyecto elegido (montaje, red o servicio), el problema que resuelve y los objetivos.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1803942000,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1804892400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 10,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "zwuuRRp2v622NkzEMD1W",
+        "titulo": "Entrega final (configuración + presentación)",
+        "descripcion": "Entrega del proyecto terminado: configuración, documentación de despliegue y material de la presentación.",
+        "moduloId": "lJ0d3IFKltKuCXdfNzNd",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1812405600,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813874400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        },
+        "updatedAt": {
+          "_seconds": 1781928347,
+          "_nanoseconds": 630000000
+        }
+      },
+      {
+        "id": "1kqpjGOL1uB7IANQ2jaU",
+        "titulo": "Diseño de la solución (red y equipos)",
+        "descripcion": "Topología de red, esquema de equipos, direccionamiento IP, servicios, selección de hardware/software y presupuesto.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1807567200,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1808517600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      },
+      {
+        "id": "4l5POe4bjoSTRRpJlk2v",
+        "titulo": "Memoria del proyecto",
+        "descripcion": "Memoria completa: análisis, diseño, montaje, configuración, pruebas, manual de usuario y manual técnico.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813442400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 0,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "1ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      },
+      {
+        "id": "BxXEf0V7d0PLfdbRhU9A",
+        "titulo": "Montaje e instalación (avance)",
+        "descripcion": "Montaje del equipamiento, instalación de SO y configuración básica de red/servicios, con evidencias.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1809986400,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1811541600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 20,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      },
+      {
+        "id": "Df9wTPvDOUkIFtzgMqC0",
+        "titulo": "Entrega final (configuración + presentación)",
+        "descripcion": "Entrega del proyecto terminado: configuración, documentación de despliegue y material de la presentación.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1812405600,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813874400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      },
+      {
+        "id": "WNHtp9q0PcLTl8dlP1iR",
+        "titulo": "Anteproyecto",
+        "descripcion": "Análisis de necesidades y requisitos del sistema, alcance, recursos previstos y planificación inicial.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1805151600,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1807308000,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 15,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      },
+      {
+        "id": "kluFAd1IZRaYOUqxbjmi",
+        "titulo": "Memoria del proyecto",
+        "descripcion": "Memoria completa: análisis, diseño, montaje, configuración, pruebas, manual de usuario y manual técnico.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811196000,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1813701600,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 25,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      },
+      {
+        "id": "pnEMg9u3z20I0mDVLLXD",
+        "titulo": "Propuesta del proyecto",
+        "descripcion": "Documento breve con el proyecto elegido (montaje, red o servicio), el problema que resuelve y los objetivos.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1803942000,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1804892400,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 10,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "2ª Evaluación",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      },
+      {
+        "id": "vL0Kn9q4oyusDcQb7gYY",
+        "titulo": "Entrega final (configuración + presentación)",
+        "descripcion": "Entrega del proyecto terminado: configuración, documentación de despliegue y material de la presentación.",
+        "moduloId": "FG3sFdVErRh26V7YaIAE",
+        "grupoId": "6FizW6wI8iHYzoSWCV8y",
+        "profesorId": "21m6mMuCAieZ7ZpcR2xfm9kH9yc2",
+        "resultadosAprendizajeIds": [],
+        "criteriosEvaluacionIds": [],
+        "fechaPublicacion": {
+          "_seconds": 1811800800,
+          "_nanoseconds": 0
+        },
+        "fechaEntrega": {
+          "_seconds": 1812060000,
+          "_nanoseconds": 0
+        },
+        "puntuacionMaxima": 10,
+        "porcentajeNotaFinal": 0,
+        "penalizacionRetraso": 10,
+        "permiteEntregaTardia": true,
+        "esGrupal": false,
+        "requiereArchivo": true,
+        "evaluacion": "1ª Evaluación Final",
+        "publicada": true,
+        "archivada": false,
+        "entregas": [],
+        "adjuntos": [],
+        "createdAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        },
+        "updatedAt": {
+          "_seconds": 1781926931,
+          "_nanoseconds": 505000000
+        }
+      }
+    ]
+  }
+}
